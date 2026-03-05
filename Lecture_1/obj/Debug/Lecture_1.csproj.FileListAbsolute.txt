@@ -5,3 +5,15 @@ C:\Users\lab322_Student02\Desktop\WCF_2026\Lecture_1\obj\Debug\Lecture_1.csproj.
 C:\Users\lab322_Student02\Desktop\WCF_2026\Lecture_1\obj\Debug\Lecture_1.csproj.CoreCompileInputs.cache
 C:\Users\lab322_Student02\Desktop\WCF_2026\Lecture_1\obj\Debug\Lecture_1.dll
 C:\Users\lab322_Student02\Desktop\WCF_2026\Lecture_1\obj\Debug\Lecture_1.pdb
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\bin\Lecture_1.dll.config
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\bin\Lecture_1.dll
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\bin\Lecture_1.pdb
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\bin\EntityFramework.dll
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\bin\EntityFramework.xml
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\obj\Debug\Lecture_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\obj\Debug\Lecture_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\obj\Debug\Lecture_1.csproj.Up2Date
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\obj\Debug\Lecture_1.dll
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Lecture_1\obj\Debug\Lecture_1.pdb

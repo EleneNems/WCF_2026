@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\bin\Classwork_1.dll.config
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\bin\Classwork_1.dll
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\bin\Classwork_1.pdb
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\bin\EntityFramework.dll
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\bin\EntityFramework.xml
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\obj\Debug\Classwork_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\obj\Debug\Classwork_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\obj\Debug\Classwor.278D38B0.Up2Date
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\obj\Debug\Classwork_1.dll
+C:\Users\User\Desktop\Year 3\sem2\WCF_2026\Classwork_1\obj\Debug\Classwork_1.pdb
