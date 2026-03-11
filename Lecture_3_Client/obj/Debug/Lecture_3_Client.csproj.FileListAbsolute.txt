@@ -1,0 +1,11 @@
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\bin\Debug\Lecture_3_Client.exe.config
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\bin\Debug\Lecture_3_Client.exe
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\bin\Debug\Lecture_3_Client.pdb
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.Form1.resources
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.Properties.Resources.resources
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.csproj.GenerateResource.cache
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.exe
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.pdb
+C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.exe.config

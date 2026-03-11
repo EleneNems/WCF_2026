@@ -1,0 +1,7 @@
+C:\Users\User\Documents\WCF_2026\Lecture_3_Service\bin\Debug\Lecture_3_Service.dll.config
+C:\Users\User\Documents\WCF_2026\Lecture_3_Service\bin\Debug\Lecture_3_Service.dll
+C:\Users\User\Documents\WCF_2026\Lecture_3_Service\bin\Debug\Lecture_3_Service.pdb
+C:\Users\User\Documents\WCF_2026\Lecture_3_Service\obj\Debug\Lecture_3_Service.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WCF_2026\Lecture_3_Service\obj\Debug\Lecture_3_Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WCF_2026\Lecture_3_Service\obj\Debug\Lecture_3_Service.dll
+C:\Users\User\Documents\WCF_2026\Lecture_3_Service\obj\Debug\Lecture_3_Service.pdb

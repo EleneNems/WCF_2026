@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\WCF_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|c:\\users\\user\\desktop\\year 3\\sem2\\wcf_2026\\classwork_1\\service\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\service\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25FF3D17-D05A-40AA-AC1F-A12108C4A077}|Lecture_3_Host\\Lecture_3_Host.csproj|c:\\users\\user\\documents\\wcf_2026\\lecture_3_host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FF3D17-D05A-40AA-AC1F-A12108C4A077}|Lecture_3_Host\\Lecture_3_Host.csproj|solutionrelative:lecture_3_host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|c:\\users\\user\\desktop\\year 3\\sem2\\wcf_2026\\classwork_1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25FF3D17-D05A-40AA-AC1F-A12108C4A077}|Lecture_3_Host\\Lecture_3_Host.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_host\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25FF3D17-D05A-40AA-AC1F-A12108C4A077}|Lecture_3_Host\\Lecture_3_Host.csproj|solutionrelative:lecture_3_host\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|c:\\users\\user\\desktop\\year 3\\sem2\\wcf_2026\\classwork_1\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|solutionrelative:lecture_3_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|c:\\users\\user\\desktop\\year 3\\sem2\\wcf_2026\\classwork_1\\contracts\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\contracts\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_service\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|solutionrelative:lecture_3_service\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|c:\\users\\user\\desktop\\year 3\\sem2\\wcf_2026\\classwork_1\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_service\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|solutionrelative:lecture_3_service\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|c:\\users\\user\\desktop\\year 3\\sem2\\wcf_2026\\classwork_1\\data\\appdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\data\\appdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BB72587-B9F7-41DF-8FF8-56883049B73D}|Lecture_3_Client\\Lecture_3_Client.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB72587-B9F7-41DF-8FF8-56883049B73D}|Lecture_3_Client\\Lecture_3_Client.csproj|solutionrelative:lecture_3_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0D46CED-8FE5-4799-917C-02764D539FA6}|Lecture_1\\Lecture_1.csproj|C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\lecture_1\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D46CED-8FE5-4799-917C-02764D539FA6}|Lecture_1\\Lecture_1.csproj|solutionrelative:lecture_1\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|C:\\Users\\User\\Documents\\WCF_2026\\classwork_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\classwork_1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BB72587-B9F7-41DF-8FF8-56883049B73D}|Lecture_3_Client\\Lecture_3_Client.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BB72587-B9F7-41DF-8FF8-56883049B73D}|Lecture_3_Client\\Lecture_3_Client.csproj|solutionrelative:lecture_3_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentService.svc.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Service\\StudentService.svc.cs",
-              "RelativeDocumentMoniker": "Classwork_1\\Service\\StudentService.svc.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Service\\StudentService.svc.cs",
-              "RelativeToolTip": "Classwork_1\\Service\\StudentService.svc.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T12:49:23.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Service\\IStudentService.cs",
-              "RelativeDocumentMoniker": "Classwork_1\\Service\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Service\\IStudentService.cs",
-              "RelativeToolTip": "Classwork_1\\Service\\IStudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T12:41:23.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IService1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\IService1.cs",
-              "RelativeDocumentMoniker": "Classwork_1\\IService1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\IService1.cs",
-              "RelativeToolTip": "Classwork_1\\IService1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T12:11:57.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StudentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Contracts\\StudentDTO.cs",
-              "RelativeDocumentMoniker": "Classwork_1\\Contracts\\StudentDTO.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Contracts\\StudentDTO.cs",
-              "RelativeToolTip": "Classwork_1\\Contracts\\StudentDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "Lecture_3_Service\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\CalculatorService.cs",
+              "RelativeToolTip": "Lecture_3_Service\\CalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T12:09:18.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDBContent.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Data\\AppDBContent.cs",
-              "RelativeDocumentMoniker": "Classwork_1\\Data\\AppDBContent.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Data\\AppDBContent.cs",
-              "RelativeToolTip": "Classwork_1\\Data\\AppDBContent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T12:07:06.686Z",
+              "WhenOpened": "2026-03-11T17:32:54.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Data\\Student.cs",
-              "RelativeDocumentMoniker": "Classwork_1\\Data\\Student.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Data\\Student.cs",
-              "RelativeToolTip": "Classwork_1\\Data\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "Lecture_3_Service\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\ICalculatorService.cs",
+              "RelativeToolTip": "Lecture_3_Service\\ICalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T12:06:30.157Z",
+              "WhenOpened": "2026-03-11T17:32:18.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Service1.svc.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Service1.svc.cs",
-              "RelativeDocumentMoniker": "Classwork_1\\Service1.svc.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Classwork_1\\Service1.svc.cs",
-              "RelativeToolTip": "Classwork_1\\Service1.svc.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\App.config",
+              "RelativeDocumentMoniker": "Lecture_3_Service\\App.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\App.config",
+              "RelativeToolTip": "Lecture_3_Service\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-11T17:30:28.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Host\\App.config",
+              "RelativeDocumentMoniker": "Lecture_3_Host\\App.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Host\\App.config",
+              "RelativeToolTip": "Lecture_3_Host\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-11T17:19:04.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Host\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture_3_Host\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Host\\Program.cs",
+              "RelativeToolTip": "Lecture_3_Host\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T11:58:04.919Z",
+              "WhenOpened": "2026-03-11T17:12:22.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "StudentService.svc.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Lecture_1\\StudentService.svc.cs",
-              "RelativeDocumentMoniker": "Lecture_1\\StudentService.svc.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Year 3\\sem2\\WCF_2026\\Lecture_1\\StudentService.svc.cs",
-              "RelativeToolTip": "Lecture_1\\StudentService.svc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T16:17:51.592Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_1\\Web.config",
+              "RelativeDocumentMoniker": "Classwork_1\\Web.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_1\\Web.config",
+              "RelativeToolTip": "Classwork_1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-11T16:48:35.694Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture_3_Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Client\\Form1.cs",
+              "RelativeToolTip": "Lecture_3_Client\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:36:35.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture_3_Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Lecture_3_Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:33:41.735Z"
             }
           ]
         }
