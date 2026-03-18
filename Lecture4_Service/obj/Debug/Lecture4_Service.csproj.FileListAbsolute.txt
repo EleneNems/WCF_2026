@@ -1,0 +1,7 @@
+C:\Users\User\Documents\WCF_2026\Lecture4_Service\bin\Debug\Lecture4_Service.dll.config
+C:\Users\User\Documents\WCF_2026\Lecture4_Service\bin\Debug\Lecture4_Service.dll
+C:\Users\User\Documents\WCF_2026\Lecture4_Service\bin\Debug\Lecture4_Service.pdb
+C:\Users\User\Documents\WCF_2026\Lecture4_Service\obj\Debug\Lecture4_Service.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WCF_2026\Lecture4_Service\obj\Debug\Lecture4_Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WCF_2026\Lecture4_Service\obj\Debug\Lecture4_Service.dll
+C:\Users\User\Documents\WCF_2026\Lecture4_Service\obj\Debug\Lecture4_Service.pdb

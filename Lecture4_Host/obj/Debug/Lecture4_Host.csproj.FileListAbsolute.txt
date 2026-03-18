@@ -1,0 +1,11 @@
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\obj\Debug\Lecture4_Host.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\obj\Debug\Lecture4_Host.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\bin\Debug\Lecture4_Host.exe.config
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\bin\Debug\Lecture4_Host.exe
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\bin\Debug\Lecture4_Host.pdb
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\bin\Debug\Lecture4_Service.dll
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\bin\Debug\Lecture4_Service.pdb
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\bin\Debug\Lecture4_Service.dll.config
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\obj\Debug\Lecture4.C7990417.Up2Date
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\obj\Debug\Lecture4_Host.exe
+C:\Users\User\Documents\WCF_2026\Lecture4_Host\obj\Debug\Lecture4_Host.pdb

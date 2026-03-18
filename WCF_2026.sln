@@ -16,6 +16,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_3_Service", "Lectur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_3_Host", "Lecture_3_Host\Lecture_3_Host.csproj", "{25FF3D17-D05A-40AA-AC1F-A12108C4A077}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture4_Service", "Lecture4_Service\Lecture4_Service.csproj", "{089D324E-3188-4928-A4A2-B88C623102A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture4_Host", "Lecture4_Host\Lecture4_Host.csproj", "{32228B79-2AC6-4A23-B501-2C2302156556}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classwork_2", "Classwork_2", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork_2Service", "Classwork_2Service\Classwork_2Service.csproj", "{C777F7B6-ACB1-421F-983D-9DF713550D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classword_2Forms", "Classword_2Forms\Classword_2Forms.csproj", "{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C777F7B6-ACB1-421F-983D-9DF713550D96} = {C777F7B6-ACB1-421F-983D-9DF713550D96}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,9 +55,29 @@ Global
 		{25FF3D17-D05A-40AA-AC1F-A12108C4A077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25FF3D17-D05A-40AA-AC1F-A12108C4A077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25FF3D17-D05A-40AA-AC1F-A12108C4A077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089D324E-3188-4928-A4A2-B88C623102A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089D324E-3188-4928-A4A2-B88C623102A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089D324E-3188-4928-A4A2-B88C623102A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089D324E-3188-4928-A4A2-B88C623102A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32228B79-2AC6-4A23-B501-2C2302156556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32228B79-2AC6-4A23-B501-2C2302156556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32228B79-2AC6-4A23-B501-2C2302156556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32228B79-2AC6-4A23-B501-2C2302156556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C777F7B6-ACB1-421F-983D-9DF713550D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C777F7B6-ACB1-421F-983D-9DF713550D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C777F7B6-ACB1-421F-983D-9DF713550D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C777F7B6-ACB1-421F-983D-9DF713550D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C777F7B6-ACB1-421F-983D-9DF713550D96} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A4A082C6-2466-4A50-9568-93F808650205}
