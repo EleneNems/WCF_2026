@@ -3,99 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\WCF_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C777F7B6-ACB1-421F-983D-9DF713550D96}|Classwork_2Service\\Classwork_2Service.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_2service\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C777F7B6-ACB1-421F-983D-9DF713550D96}|Classwork_2Service\\Classwork_2Service.csproj|solutionrelative:classwork_2service\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87312B48-70B4-4D27-873F-FB66370AA894}|TransactionDemo\\TransactionDemo.csproj|c:\\users\\user\\documents\\wcf_2026\\transactiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312B48-70B4-4D27-873F-FB66370AA894}|TransactionDemo\\TransactionDemo.csproj|solutionrelative:transactiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C777F7B6-ACB1-421F-983D-9DF713550D96}|Classwork_2Service\\Classwork_2Service.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_2service\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C777F7B6-ACB1-421F-983D-9DF713550D96}|Classwork_2Service\\Classwork_2Service.csproj|solutionrelative:classwork_2service\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87312B48-70B4-4D27-873F-FB66370AA894}|TransactionDemo\\TransactionDemo.csproj|C:\\Users\\User\\Documents\\WCF_2026\\transactiondemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87312B48-70B4-4D27-873F-FB66370AA894}|TransactionDemo\\TransactionDemo.csproj|solutionrelative:transactiondemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C777F7B6-ACB1-421F-983D-9DF713550D96}|Classwork_2Service\\Classwork_2Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\classwork_2service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C777F7B6-ACB1-421F-983D-9DF713550D96}|Classwork_2Service\\Classwork_2Service.csproj|solutionrelative:classwork_2service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|c:\\users\\user\\documents\\wcf_2026\\bankservice\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|solutionrelative:bankservice\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA}|Classword_2Forms\\Classword_2Forms.csproj|c:\\users\\user\\documents\\wcf_2026\\classword_2forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA}|Classword_2Forms\\Classword_2Forms.csproj|solutionrelative:classword_2forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|C:\\Users\\User\\Documents\\WCF_2026\\bankservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|solutionrelative:bankservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA}|Classword_2Forms\\Classword_2Forms.csproj|c:\\users\\user\\documents\\wcf_2026\\classword_2forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DB094C-792B-4F05-8F29-DE3EB0EC8DDA}|Classword_2Forms\\Classword_2Forms.csproj|solutionrelative:classword_2forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0D46CED-8FE5-4799-917C-02764D539FA6}|Lecture_1\\Lecture_1.csproj|c:\\users\\user\\documents\\wcf_2026\\lecture_1\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D46CED-8FE5-4799-917C-02764D539FA6}|Lecture_1\\Lecture_1.csproj|solutionrelative:lecture_1\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0D46CED-8FE5-4799-917C-02764D539FA6}|Lecture_1\\Lecture_1.csproj|c:\\users\\user\\documents\\wcf_2026\\lecture_1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D46CED-8FE5-4799-917C-02764D539FA6}|Lecture_1\\Lecture_1.csproj|solutionrelative:lecture_1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0D46CED-8FE5-4799-917C-02764D539FA6}|Lecture_1\\Lecture_1.csproj|c:\\users\\user\\documents\\wcf_2026\\lecture_1\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D46CED-8FE5-4799-917C-02764D539FA6}|Lecture_1\\Lecture_1.csproj|solutionrelative:lecture_1\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C777F7B6-ACB1-421F-983D-9DF713550D96}|Classwork_2Service\\Classwork_2Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\classwork_2service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C777F7B6-ACB1-421F-983D-9DF713550D96}|Classwork_2Service\\Classwork_2Service.csproj|solutionrelative:classwork_2service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32228B79-2AC6-4A23-B501-2C2302156556}|Lecture4_Host\\Lecture4_Host.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture4_host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32228B79-2AC6-4A23-B501-2C2302156556}|Lecture4_Host\\Lecture4_Host.csproj|solutionrelative:lecture4_host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{089D324E-3188-4928-A4A2-B88C623102A3}|Lecture4_Service\\Lecture4_Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture4_service\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{089D324E-3188-4928-A4A2-B88C623102A3}|Lecture4_Service\\Lecture4_Service.csproj|solutionrelative:lecture4_service\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{089D324E-3188-4928-A4A2-B88C623102A3}|Lecture4_Service\\Lecture4_Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture4_service\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{089D324E-3188-4928-A4A2-B88C623102A3}|Lecture4_Service\\Lecture4_Service.csproj|solutionrelative:lecture4_service\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Lecture4_Service||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{089D324E-3188-4928-A4A2-B88C623102A3}|Lecture4_Service\\Lecture4_Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture4_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{089D324E-3188-4928-A4A2-B88C623102A3}|Lecture4_Service\\Lecture4_Service.csproj|solutionrelative:lecture4_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32228B79-2AC6-4A23-B501-2C2302156556}|Lecture4_Host\\Lecture4_Host.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture4_host\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{32228B79-2AC6-4A23-B501-2C2302156556}|Lecture4_Host\\Lecture4_Host.csproj|solutionrelative:lecture4_host\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25FF3D17-D05A-40AA-AC1F-A12108C4A077}|Lecture_3_Host\\Lecture_3_Host.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25FF3D17-D05A-40AA-AC1F-A12108C4A077}|Lecture_3_Host\\Lecture_3_Host.csproj|solutionrelative:lecture_3_host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_service\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|solutionrelative:lecture_3_service\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|C:\\Users\\User\\Documents\\WCF_2026\\classwork_1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25FF3D17-D05A-40AA-AC1F-A12108C4A077}|Lecture_3_Host\\Lecture_3_Host.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_host\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{25FF3D17-D05A-40AA-AC1F-A12108C4A077}|Lecture_3_Host\\Lecture_3_Host.csproj|solutionrelative:lecture_3_host\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|solutionrelative:lecture_3_service\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_service\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F498587F-E471-4ACB-B6B0-6EFBE2CA9868}|Lecture_3_Service\\Lecture_3_Service.csproj|solutionrelative:lecture_3_service\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB72587-B9F7-41DF-8FF8-56883049B73D}|Lecture_3_Client\\Lecture_3_Client.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB72587-B9F7-41DF-8FF8-56883049B73D}|Lecture_3_Client\\Lecture_3_Client.csproj|solutionrelative:lecture_3_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|C:\\Users\\User\\Documents\\WCF_2026\\classwork_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{46229AA9-4CD1-410C-804B-87F9E5848A3D}|Classwork_1\\Classwork_1.csproj|solutionrelative:classwork_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB72587-B9F7-41DF-8FF8-56883049B73D}|Lecture_3_Client\\Lecture_3_Client.csproj|C:\\Users\\User\\Documents\\WCF_2026\\lecture_3_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BB72587-B9F7-41DF-8FF8-56883049B73D}|Lecture_3_Client\\Lecture_3_Client.csproj|solutionrelative:lecture_3_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|C:\\Users\\User\\Documents\\WCF_2026\\bankservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|solutionrelative:bankservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,301 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classword_2Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "Classword_2Forms\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classword_2Forms\\Form1.cs",
-              "RelativeToolTip": "Classword_2Forms\\Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\TransactionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TransactionDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\TransactionDemo\\Program.cs",
+              "RelativeToolTip": "TransactionDemo\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T16:48:26.12Z",
+              "WhenOpened": "2026-03-24T10:56:05.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\App.config",
+              "RelativeDocumentMoniker": "BankService\\App.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\App.config",
+              "RelativeToolTip": "BankService\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-24T10:40:03.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classword_2Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "Classword_2Forms\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classword_2Forms\\Form1.cs [Design]",
-              "RelativeToolTip": "Classword_2Forms\\Form1.cs [Design]",
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\Service1.cs",
+              "RelativeDocumentMoniker": "BankService\\Service1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\Service1.cs",
+              "RelativeToolTip": "BankService\\Service1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T16:47:33.246Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_1\\IStudentService.cs",
-              "RelativeDocumentMoniker": "Lecture_1\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_1\\IStudentService.cs",
-              "RelativeToolTip": "Lecture_1\\IStudentService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T16:22:07.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IService1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_1\\IService1.cs",
-              "RelativeDocumentMoniker": "Lecture_1\\IService1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_1\\IService1.cs",
-              "RelativeToolTip": "Lecture_1\\IService1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T16:22:06.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentService.svc.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_1\\StudentService.svc.cs",
-              "RelativeDocumentMoniker": "Lecture_1\\StudentService.svc.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_1\\StudentService.svc.cs",
-              "RelativeToolTip": "Lecture_1\\StudentService.svc.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T16:22:01.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentService.svc.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_2Service\\StudentService.svc.cs",
-              "RelativeDocumentMoniker": "Classwork_2Service\\StudentService.svc.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_2Service\\StudentService.svc.cs",
-              "RelativeToolTip": "Classwork_2Service\\StudentService.svc.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T16:21:09.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_2Service\\Student.cs",
-              "RelativeDocumentMoniker": "Classwork_2Service\\Student.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_2Service\\Student.cs",
-              "RelativeToolTip": "Classwork_2Service\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T16:16:20.596Z",
+              "WhenOpened": "2026-03-24T10:39:00.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_2Service\\IStudentService.cs",
-              "RelativeDocumentMoniker": "Classwork_2Service\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_2Service\\IStudentService.cs",
-              "RelativeToolTip": "Classwork_2Service\\IStudentService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\IService1.cs",
+              "RelativeDocumentMoniker": "BankService\\IService1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\IService1.cs",
+              "RelativeToolTip": "BankService\\IService1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T16:15:30.088Z",
+              "WhenOpened": "2026-03-24T10:38:03.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_2Service\\Web.config",
-              "RelativeDocumentMoniker": "Classwork_2Service\\Web.config",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_2Service\\Web.config",
-              "RelativeToolTip": "Classwork_2Service\\Web.config",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\TransactionDemo\\App.config",
+              "RelativeDocumentMoniker": "TransactionDemo\\App.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\TransactionDemo\\App.config",
+              "RelativeToolTip": "TransactionDemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-18T16:14:47.605Z",
+              "WhenOpened": "2026-03-24T10:06:48.947Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ICalculator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Service\\ICalculator.cs",
-              "RelativeDocumentMoniker": "Lecture4_Service\\ICalculator.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Service\\ICalculator.cs",
-              "RelativeToolTip": "Lecture4_Service\\ICalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T15:48:28.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Service\\Calculator.cs",
-              "RelativeDocumentMoniker": "Lecture4_Service\\Calculator.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Service\\Calculator.cs",
-              "RelativeToolTip": "Lecture4_Service\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T15:56:01.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Lecture4_Service",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Service\\Lecture4_Service.csproj",
-              "RelativeDocumentMoniker": "Lecture4_Service\\Lecture4_Service.csproj",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Service\\Lecture4_Service.csproj",
-              "RelativeToolTip": "Lecture4_Service\\Lecture4_Service.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-18T15:55:57.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Service\\App.config",
-              "RelativeDocumentMoniker": "Lecture4_Service\\App.config",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Service\\App.config",
-              "RelativeToolTip": "Lecture4_Service\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-18T15:52:23.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Host\\Program.cs",
-              "RelativeDocumentMoniker": "Lecture_3_Host\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Host\\Program.cs",
-              "RelativeToolTip": "Lecture_3_Host\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T15:48:17.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Host\\App.config",
-              "RelativeDocumentMoniker": "Lecture4_Host\\App.config",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Host\\App.config",
-              "RelativeToolTip": "Lecture4_Host\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-18T15:42:33.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Host\\Program.cs",
-              "RelativeDocumentMoniker": "Lecture4_Host\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture4_Host\\Program.cs",
-              "RelativeToolTip": "Lecture4_Host\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T15:38:20.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Service1.svc.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_1\\Service1.svc.cs",
-              "RelativeDocumentMoniker": "Classwork_1\\Service1.svc.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_1\\Service1.svc.cs",
-              "RelativeToolTip": "Classwork_1\\Service1.svc.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T15:18:41.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CalculatorService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\CalculatorService.cs",
-              "RelativeDocumentMoniker": "Lecture_3_Service\\CalculatorService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\CalculatorService.cs",
-              "RelativeToolTip": "Lecture_3_Service\\CalculatorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T17:32:54.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ICalculatorService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\ICalculatorService.cs",
-              "RelativeDocumentMoniker": "Lecture_3_Service\\ICalculatorService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\ICalculatorService.cs",
-              "RelativeToolTip": "Lecture_3_Service\\ICalculatorService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T17:32:18.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\App.config",
-              "RelativeDocumentMoniker": "Lecture_3_Service\\App.config",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Service\\App.config",
-              "RelativeToolTip": "Lecture_3_Service\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-11T17:30:28.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Host\\App.config",
-              "RelativeDocumentMoniker": "Lecture_3_Host\\App.config",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Host\\App.config",
-              "RelativeToolTip": "Lecture_3_Host\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-11T17:19:04.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_1\\Web.config",
-              "RelativeDocumentMoniker": "Classwork_1\\Web.config",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_1\\Web.config",
-              "RelativeToolTip": "Classwork_1\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-11T16:48:35.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Client\\Form1.cs",
-              "RelativeDocumentMoniker": "Lecture_3_Client\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Client\\Form1.cs",
-              "RelativeToolTip": "Lecture_3_Client\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:36:35.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Client\\Form1.cs",
-              "RelativeDocumentMoniker": "Lecture_3_Client\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_3_Client\\Form1.cs [Design]",
-              "RelativeToolTip": "Lecture_3_Client\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:33:41.735Z"
             }
           ]
         }

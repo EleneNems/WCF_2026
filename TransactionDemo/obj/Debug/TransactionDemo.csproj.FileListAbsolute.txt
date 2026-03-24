@@ -1,0 +1,8 @@
+C:\Users\User\Documents\WCF_2026\TransactionDemo\bin\Debug\TransactionDemo.exe.config
+C:\Users\User\Documents\WCF_2026\TransactionDemo\bin\Debug\TransactionDemo.exe
+C:\Users\User\Documents\WCF_2026\TransactionDemo\bin\Debug\TransactionDemo.pdb
+C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.exe
+C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.pdb
+C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.exe.config
