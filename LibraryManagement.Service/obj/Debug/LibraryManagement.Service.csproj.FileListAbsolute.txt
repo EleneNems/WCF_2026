@@ -1,0 +1,15 @@
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\obj\Debug\LibraryManagement.Service.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\obj\Debug\LibraryManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\LibraryManagement.Service.dll.config
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\LibraryManagement.Service.dll
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\LibraryManagement.Service.pdb
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\EntityFramework.dll
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\LibraryManagement.Data.dll
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\LibraryManagement.Data.pdb
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\LibraryManagement.Data.dll.config
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\EntityFramework.xml
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\obj\Debug\LibraryM.74F9D186.Up2Date
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\obj\Debug\LibraryManagement.Service.dll
+C:\Users\User\Documents\WCF_2026\LibraryManagement.Service\obj\Debug\LibraryManagement.Service.pdb

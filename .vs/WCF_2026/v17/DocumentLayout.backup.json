@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\WCF_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87312B48-70B4-4D27-873F-FB66370AA894}|TransactionDemo\\TransactionDemo.csproj|c:\\users\\user\\documents\\wcf_2026\\transactiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87312B48-70B4-4D27-873F-FB66370AA894}|TransactionDemo\\TransactionDemo.csproj|solutionrelative:transactiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|c:\\users\\user\\documents\\wcf_2026\\librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|solutionrelative:librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87312B48-70B4-4D27-873F-FB66370AA894}|TransactionDemo\\TransactionDemo.csproj|C:\\Users\\User\\Documents\\WCF_2026\\transactiondemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{87312B48-70B4-4D27-873F-FB66370AA894}|TransactionDemo\\TransactionDemo.csproj|solutionrelative:transactiondemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|c:\\users\\user\\documents\\wcf_2026\\librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|solutionrelative:librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|c:\\users\\user\\documents\\wcf_2026\\bankservice\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|solutionrelative:bankservice\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|C:\\Users\\User\\Documents\\WCF_2026\\bankservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|solutionrelative:bankservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|C:\\Users\\User\\Documents\\WCF_2026\\bankservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1D7EB33C-6EE3-4AAA-A4DC-D1D69C50B536}|BankService\\BankService.csproj|solutionrelative:bankservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{9CD4D74F-4646-4963-8B16-3B7B88CF88E8}|LibraryManagement.Service\\LibraryManagement.Service.csproj|c:\\users\\user\\documents\\wcf_2026\\librarymanagement.service\\contracts\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD4D74F-4646-4963-8B16-3B7B88CF88E8}|LibraryManagement.Service\\LibraryManagement.Service.csproj|solutionrelative:librarymanagement.service\\contracts\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\TransactionDemo\\Program.cs",
-              "RelativeDocumentMoniker": "TransactionDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\TransactionDemo\\Program.cs*",
-              "RelativeToolTip": "TransactionDemo\\Program.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T10:56:05.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\App.config",
-              "RelativeDocumentMoniker": "BankService\\App.config",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\App.config",
-              "RelativeToolTip": "BankService\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-24T10:40:03.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Service1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\Service1.cs",
-              "RelativeDocumentMoniker": "BankService\\Service1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\Service1.cs",
-              "RelativeToolTip": "BankService\\Service1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T10:39:00.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IService1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\IService1.cs",
-              "RelativeDocumentMoniker": "BankService\\IService1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\BankService\\IService1.cs",
-              "RelativeToolTip": "BankService\\IService1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Service\\Contracts\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Service\\Contracts\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Service\\Contracts\\ILibraryService.cs",
+              "RelativeToolTip": "LibraryManagement.Service\\Contracts\\ILibraryService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T10:38:03.715Z",
+              "WhenOpened": "2026-03-27T18:27:38.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\TransactionDemo\\App.config",
-              "RelativeDocumentMoniker": "TransactionDemo\\App.config",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\TransactionDemo\\App.config",
-              "RelativeToolTip": "TransactionDemo\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-24T10:06:48.947Z",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Client\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Client\\MainForm.cs",
+              "RelativeToolTip": "LibraryManagement.Client\\MainForm.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAgwOEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T17:34:48.591Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Client\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Client\\MainForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagement.Client\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:49:01.176Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

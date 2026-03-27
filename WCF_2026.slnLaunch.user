@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "LibraryManagement.Service\\LibraryManagement.Service.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "LibraryManagement.Client\\LibraryManagement.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
