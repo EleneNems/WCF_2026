@@ -12,3 +12,17 @@ C:\Users\User\Documents\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryM.723
 C:\Users\User\Documents\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.exe
 C:\Users\User\Documents\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.pdb
 C:\Users\User\Documents\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.exe.config
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\bin\Debug\LibraryManagement.Client.exe.config
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\bin\Debug\LibraryManagement.Client.exe
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\bin\Debug\LibraryManagement.Client.pdb
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.csproj.AssemblyReference.cache
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.exe.config
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.MainForm.resources
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.Properties.Resources.resources
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.csproj.GenerateResource.cache
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.csproj.CoreCompileInputs.cache
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryM.723153F7.Up2Date
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.exe
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Client\obj\Debug\LibraryManagement.Client.pdb

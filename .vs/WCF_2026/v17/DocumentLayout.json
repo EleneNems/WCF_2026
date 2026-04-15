@@ -1,17 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\WCF_2026\\",
+  "WorkspaceRootPath": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|c:\\users\\user\\documents\\wcf_2026\\librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0C71115B-C9FA-4294-AE57-26343D2B4F31}|Lecture_5\\Lecture_5.csproj|c:\\users\\lab322_student01\\desktop\\wcf_2026\\lecture_5\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C71115B-C9FA-4294-AE57-26343D2B4F31}|Lecture_5\\Lecture_5.csproj|solutionrelative:lecture_5\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C71115B-C9FA-4294-AE57-26343D2B4F31}|Lecture_5\\Lecture_5.csproj|c:\\users\\lab322_student01\\desktop\\wcf_2026\\lecture_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C71115B-C9FA-4294-AE57-26343D2B4F31}|Lecture_5\\Lecture_5.csproj|solutionrelative:lecture_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C71115B-C9FA-4294-AE57-26343D2B4F31}|Lecture_5\\Lecture_5.csproj|c:\\users\\lab322_student01\\desktop\\wcf_2026\\lecture_5\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C71115B-C9FA-4294-AE57-26343D2B4F31}|Lecture_5\\Lecture_5.csproj|solutionrelative:lecture_5\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|c:\\users\\lab322_student01\\desktop\\wcf_2026\\librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|solutionrelative:librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|c:\\users\\user\\documents\\wcf_2026\\librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DE1ACB-0C7B-43E4-93FA-CF9882AA0B25}|LibraryManagement.Client\\LibraryManagement.Client.csproj|solutionrelative:librarymanagement.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CD4D74F-4646-4963-8B16-3B7B88CF88E8}|LibraryManagement.Service\\LibraryManagement.Service.csproj|c:\\users\\user\\documents\\wcf_2026\\librarymanagement.service\\contracts\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CD4D74F-4646-4963-8B16-3B7B88CF88E8}|LibraryManagement.Service\\LibraryManagement.Service.csproj|C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\librarymanagement.service\\contracts\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CD4D74F-4646-4963-8B16-3B7B88CF88E8}|LibraryManagement.Service\\LibraryManagement.Service.csproj|solutionrelative:librarymanagement.service\\contracts\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,28 +34,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILibraryService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Service\\Contracts\\ILibraryService.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.Service\\Contracts\\ILibraryService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Service\\Contracts\\ILibraryService.cs",
-              "RelativeToolTip": "LibraryManagement.Service\\Contracts\\ILibraryService.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T18:27:38.079Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_5\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture_5\\Program.cs",
+              "ToolTip": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_5\\Program.cs",
+              "RelativeToolTip": "Lecture_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:51:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_5\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Lecture_5\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_5\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Lecture_5\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:11:52.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_5\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lecture_5\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_5\\Models\\Student.cs",
+              "RelativeToolTip": "Lecture_5\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:09:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\LibraryManagement.Service\\Contracts\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Service\\Contracts\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\LibraryManagement.Service\\Contracts\\ILibraryService.cs",
+              "RelativeToolTip": "LibraryManagement.Service\\Contracts\\ILibraryService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:27:38.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Client\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\LibraryManagement.Client\\MainForm.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Client\\MainForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Client\\MainForm.cs",
+              "ToolTip": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\LibraryManagement.Client\\MainForm.cs",
               "RelativeToolTip": "LibraryManagement.Client\\MainForm.cs",
               "ViewState": "AgIAANIBAAAAAAAAAAAgwOEBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,15 +126,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Client\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\LibraryManagement.Client\\MainForm.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Client\\MainForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\LibraryManagement.Client\\MainForm.cs [Design]",
+              "ToolTip": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\LibraryManagement.Client\\MainForm.cs [Design]",
               "RelativeToolTip": "LibraryManagement.Client\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T16:49:01.176Z",
               "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

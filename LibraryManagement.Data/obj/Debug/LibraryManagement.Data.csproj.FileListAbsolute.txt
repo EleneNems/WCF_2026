@@ -10,3 +10,15 @@ C:\Users\User\Documents\WCF_2026\LibraryManagement.Data\obj\Debug\LibraryManagem
 C:\Users\User\Documents\WCF_2026\LibraryManagement.Data\obj\Debug\LibraryM.D1005E98.Up2Date
 C:\Users\User\Documents\WCF_2026\LibraryManagement.Data\obj\Debug\LibraryManagement.Data.dll
 C:\Users\User\Documents\WCF_2026\LibraryManagement.Data\obj\Debug\LibraryManagement.Data.pdb
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\bin\Debug\LibraryManagement.Data.dll.config
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\bin\Debug\LibraryManagement.Data.dll
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\bin\Debug\LibraryManagement.Data.pdb
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\obj\Debug\LibraryManagement.Data.csproj.AssemblyReference.cache
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\obj\Debug\LibraryManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\obj\Debug\LibraryM.D1005E98.Up2Date
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\obj\Debug\LibraryManagement.Data.dll
+C:\Users\lab322_student01\Desktop\WCF_2026\LibraryManagement.Data\obj\Debug\LibraryManagement.Data.pdb
