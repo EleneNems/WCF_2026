@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\WCF_2026\\",
+  "WorkspaceRootPath": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{430D9C85-20CE-40CC-9DCE-4909B66CB490}|Classwork_3\\Classwork_3.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_3\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{430D9C85-20CE-40CC-9DCE-4909B66CB490}|Classwork_3\\Classwork_3.csproj|solutionrelative:classwork_3\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3193FF64-3860-4449-95D4-CA05E72E480C}|Lecture_6\\Lecture_6.csproj|c:\\users\\lab322_student01\\desktop\\wcf_2026\\lecture_6\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3193FF64-3860-4449-95D4-CA05E72E480C}|Lecture_6\\Lecture_6.csproj|solutionrelative:lecture_6\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{430D9C85-20CE-40CC-9DCE-4909B66CB490}|Classwork_3\\Classwork_3.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_3\\models\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{430D9C85-20CE-40CC-9DCE-4909B66CB490}|Classwork_3\\Classwork_3.csproj|solutionrelative:classwork_3\\models\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{430D9C85-20CE-40CC-9DCE-4909B66CB490}|Classwork_3\\Classwork_3.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{430D9C85-20CE-40CC-9DCE-4909B66CB490}|Classwork_3\\Classwork_3.csproj|solutionrelative:classwork_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3193FF64-3860-4449-95D4-CA05E72E480C}|Lecture_6\\Lecture_6.csproj|c:\\users\\lab322_student01\\desktop\\wcf_2026\\lecture_6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3193FF64-3860-4449-95D4-CA05E72E480C}|Lecture_6\\Lecture_6.csproj|solutionrelative:lecture_6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,42 +41,33 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudentCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_3\\Models\\StudentCreateDTO.cs",
-              "RelativeDocumentMoniker": "Classwork_3\\Models\\StudentCreateDTO.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_3\\Models\\StudentCreateDTO.cs",
-              "RelativeToolTip": "Classwork_3\\Models\\StudentCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_6\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lecture_6\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_6\\Models\\Student.cs",
+              "RelativeToolTip": "Lecture_6\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T10:19:00.53Z",
+              "WhenOpened": "2026-04-22T16:26:31.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_3\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "Classwork_3\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_3\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "Classwork_3\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_6\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Lecture_6\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\lab322_student01\\Desktop\\WCF_2026\\Lecture_6\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Lecture_6\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T09:58:59.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_3\\Program.cs",
-              "RelativeDocumentMoniker": "Classwork_3\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_3\\Program.cs",
-              "RelativeToolTip": "Classwork_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T09:37:00.929Z",
+              "WhenOpened": "2026-04-22T16:02:24.478Z",
               "EditorCaption": ""
             }
           ]
