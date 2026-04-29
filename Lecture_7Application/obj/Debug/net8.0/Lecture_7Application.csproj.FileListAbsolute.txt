@@ -1,0 +1,12 @@
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\bin\Debug\net8.0\Lecture_7Application.deps.json
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\bin\Debug\net8.0\Lecture_7Application.dll
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\bin\Debug\net8.0\Lecture_7Application.pdb
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\obj\Debug\net8.0\Lecture_7Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\obj\Debug\net8.0\Lecture_7Application.AssemblyInfoInputs.cache
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\obj\Debug\net8.0\Lecture_7Application.AssemblyInfo.cs
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\obj\Debug\net8.0\Lecture_7Application.csproj.CoreCompileInputs.cache
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\obj\Debug\net8.0\Lecture_7Application.sourcelink.json
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\obj\Debug\net8.0\Lecture_7Application.dll
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\obj\Debug\net8.0\refint\Lecture_7Application.dll
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\obj\Debug\net8.0\Lecture_7Application.pdb
+C:\Users\lab322_student01\Desktop\WCF_2026\Lecture_7Application\obj\Debug\net8.0\ref\Lecture_7Application.dll
