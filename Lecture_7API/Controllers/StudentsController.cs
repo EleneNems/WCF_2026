@@ -16,7 +16,7 @@ namespace Lecture_7API.Controllers
         }
 
         // GET: api/<StudentsController>
-        [HttpGet]
+        
         [HttpGet]
         public async Task<IEnumerable<StudentsDTO>> Get()
         {
@@ -26,27 +26,55 @@ namespace Lecture_7API.Controllers
 
         // GET api/<StudentsController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<StudentsDTO> Get(int id)
         {
-            return "value";
+            var student = _studentService.GetStudentById(id);
+            if (student is null)
+            {
+                return null;
+            }
+            else
+            {
+                return await student;
+            }
+                
         }
 
         // POST api/<StudentsController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async Task<IActionResult> Post([FromBody] CreateStudentDTO dto)
         {
+            var result = await _studentService.AddStudent(dto);
+            return Created("", result);
         }
 
         // PUT api/<StudentsController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public async Task<IActionResult> Put(int id, [FromBody] CreateStudentDTO dto)
         {
+            var result = await _studentService.UpdateStudent(id, dto);
+
+            if (result == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(result);
         }
 
         // DELETE api/<StudentsController>/5
+        
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
+            var result = await _studentService.DeleteStudent(id);
+
+            if (result == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(result);
         }
     }
 }

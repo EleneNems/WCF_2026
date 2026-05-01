@@ -28,18 +28,12 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "dto",
+        "Type": "Lecture_7Application.DTOs.CreateStudentDTO",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Lecture_7API.Controllers.StudentsController",
@@ -57,7 +51,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "Lecture_7Application.DTOs.StudentsDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -81,18 +75,12 @@
         "IsRequired": true
       },
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "dto",
+        "Type": "Lecture_7Application.DTOs.CreateStudentDTO",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Lecture_7API.Controllers.StudentsController",
@@ -108,13 +96,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Lecture_7API.Controllers.WeatherForecastController",

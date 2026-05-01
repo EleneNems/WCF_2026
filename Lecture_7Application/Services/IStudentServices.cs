@@ -11,5 +11,8 @@ namespace Lecture_7Application.Services
     {
         Task<List<StudentsDTO>> GetStudents();
         Task<StudentsDTO> GetStudentById(int id);
+        Task<StudentsDTO> AddStudent(CreateStudentDTO dto);
+        Task<StudentsDTO?> UpdateStudent(int id, CreateStudentDTO dto);
+        Task<StudentsDTO?> DeleteStudent(int id);
     }
 }
