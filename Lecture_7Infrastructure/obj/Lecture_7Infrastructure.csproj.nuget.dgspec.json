@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Infrastructure\\Lecture_7Infrastructure.csproj": {}
+    "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Infrastructure\\Lecture_7Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj": {
+    "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj",
+        "projectUniqueName": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj",
         "projectName": "Lecture_7Application",
-        "projectPath": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Application\\obj\\",
+        "projectPath": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj",
+        "packagesPath": "C:\\Users\\lab322_Student02\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lab322_Student02\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,24 +66,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj": {
+    "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj",
         "projectName": "Lecture_7Domain",
-        "projectPath": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Domain\\obj\\",
+        "projectPath": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj",
+        "packagesPath": "C:\\Users\\lab322_Student02\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lab322_Student02\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,6 +92,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,24 +132,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Infrastructure\\Lecture_7Infrastructure.csproj": {
+    "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Infrastructure\\Lecture_7Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Infrastructure\\Lecture_7Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Infrastructure\\Lecture_7Infrastructure.csproj",
         "projectName": "Lecture_7Infrastructure",
-        "projectPath": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Infrastructure\\Lecture_7Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Infrastructure\\Lecture_7Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lab322_Student02\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lab322_Student02\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -156,17 +158,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj"
+              "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj": {
+                "projectPath": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Application\\Lecture_7Application.csproj"
               },
-              "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj"
+              "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj": {
+                "projectPath": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7Domain\\Lecture_7Domain.csproj"
               }
             }
           }
@@ -208,7 +211,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
