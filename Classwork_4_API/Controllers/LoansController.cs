@@ -1,16 +1,16 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Classwork_4_Application.DTOs;
-using Classwork_4_Infrastructure.Services;
+﻿using Classwork_4_Application.DTOs;
+using Classwork_4_Application.Interfaces;
+using Microsoft.AspNetCore.Mvc;
+
 namespace Classwork_4_API.Controllers;
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 [Route("api/[controller]")]
 [ApiController]
 public class LoansController : ControllerBase
 {
-    private readonly LoanService _loanService;
+    private readonly ILoanService _loanService;
 
-    public LoansController(LoanService loanService)
+    public LoansController(ILoanService loanService)
     {
         _loanService = loanService;
     }
@@ -25,25 +25,14 @@ public class LoansController : ControllerBase
     [HttpPost("issue")]
     public async Task<IActionResult> IssueBook(IssueBookDTO dto)
     {
-        var result = await _loanService.IssueBookAsync(
-            dto.ReaderId,
-            dto.BookId,
-            dto.LoanDate,
-            dto.DueDate
-        );
-
+        var result = await _loanService.IssueBookAsync(dto);
         return Ok(result);
     }
 
     [HttpPost("return")]
     public async Task<IActionResult> ReturnBook(ReturnBookDTO dto)
     {
-        var result = await _loanService.ReturnBookAsync(
-            dto.LoanId,
-            dto.ReturnDate,
-            dto.Condition
-        );
-
+        var result = await _loanService.ReturnBookAsync(dto);
         return Ok(result);
     }
 }

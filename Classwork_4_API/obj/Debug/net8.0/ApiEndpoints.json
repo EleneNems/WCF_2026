@@ -8,22 +8,32 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "title",
+        "Name": "Title",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "author",
+        "Name": "ISBN",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "category",
+        "Name": "AuthorId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CategoryId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "AuthorName",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "isbn",
+        "Name": "CategoryName",
         "Type": "System.String",
         "IsRequired": false
       }
@@ -145,8 +155,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "status",
-        "Type": "System.String",
+        "Name": "Status",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       }
     ],

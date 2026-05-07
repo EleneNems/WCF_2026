@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Classwork_4_Application.DTOs;
-
 public class BooksDTO
 {
     public int Id { get; set; }
@@ -13,8 +12,12 @@ public class BooksDTO
     public string Title { get; set; } = string.Empty;
     public string ISBN { get; set; } = string.Empty;
     public int PublishYear { get; set; }
-    public string Category { get; set; } = string.Empty;
-    public string Author { get; set; } = string.Empty;
+
+    public int CategoryId { get; set; }
+    public string CategoryName { get; set; } = string.Empty;
+
+    public int AuthorId { get; set; }
+    public string AuthorName { get; set; } = string.Empty;
 
     public int TotalQuantity { get; set; }
     public int AvailableQuantity { get; set; }

@@ -20,4 +20,7 @@ public class LibraryDbContext : DbContext
     public DbSet<Reader> Readers { get; set; }
     public DbSet<Loan> Loans { get; set; }
 
+    public DbSet<Category> Categories { get; set; }
+    public DbSet<Author> Authors { get; set; }
+
 }

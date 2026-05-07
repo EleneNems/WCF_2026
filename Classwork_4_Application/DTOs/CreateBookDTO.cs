@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace Classwork_4_Application.DTOs;
 
+
 public class CreateBookDTO
 {
-    public string Title { get; set; } = string.Empty;
-    public string ISBN { get; set; } = string.Empty;
+    public string Title { get; set; } = null!;
+    public string ISBN { get; set; } = null!;
     public int PublishYear { get; set; }
-    public string Category { get; set; } = string.Empty;
-    public string Author { get; set; } = string.Empty;
+
+    public int AuthorId { get; set; }
+    public int CategoryId { get; set; }
 
     public int TotalQuantity { get; set; }
     public int AvailableQuantity { get; set; }

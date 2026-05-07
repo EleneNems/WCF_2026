@@ -1,18 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Classwork_4_Application.Interfaces.Repositories;
+using Classwork_4_Domain.Entity;
 using Classwork_4_Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace Classwork_4_Infrastructure.Services;
+namespace Classwork_4_Infrastructure.Repositories;
 
-public class StatisticsService
+public class StatisticsRepository : IStatisticsRepository
 {
     private readonly LibraryDbContext _context;
 
-    public StatisticsService(LibraryDbContext context)
+    public StatisticsRepository(LibraryDbContext context)
     {
         _context = context;
     }
@@ -41,15 +38,20 @@ public class StatisticsService
     public async Task<int> GetBlockedReadersCountAsync()
     {
         return await _context.Readers
-            .CountAsync(r => r.Status == Classwork_4_Domain.Entity.ReaderStatus.Blocked);
+            .CountAsync(r => r.Status == ReaderStatus.Blocked);
     }
 
     public async Task<object?> GetMostIssuedBookAsync()
     {
         return await _context.Loans
-            .GroupBy(l => l.Book)
+            .GroupBy(l => new
+            {
+                l.BookId,
+                l.Book.Title
+            })
             .Select(g => new
             {
+                BookId = g.Key.BookId,
                 BookTitle = g.Key.Title,
                 IssueCount = g.Count()
             })
@@ -60,9 +62,15 @@ public class StatisticsService
     public async Task<object?> GetMostActiveReaderAsync()
     {
         return await _context.Loans
-            .GroupBy(l => l.Reader)
+            .GroupBy(l => new
+            {
+                l.ReaderId,
+                l.Reader.FirstName,
+                l.Reader.LastName
+            })
             .Select(g => new
             {
+                ReaderId = g.Key.ReaderId,
                 ReaderName = g.Key.FirstName + " " + g.Key.LastName,
                 LoanCount = g.Count()
             })

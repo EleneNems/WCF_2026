@@ -598,7 +598,8 @@
       },
       "Classwork_4_Application/1.0.0": {
         "dependencies": {
-          "Classwork_4_Domain": "1.0.0"
+          "Classwork_4_Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.26"
         },
         "runtime": {
           "Classwork_4_Application.dll": {
@@ -617,6 +618,7 @@
       },
       "Classwork_4_Infrastructure/1.0.0": {
         "dependencies": {
+          "Classwork_4_Application": "1.0.0",
           "Classwork_4_Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.26"
         },

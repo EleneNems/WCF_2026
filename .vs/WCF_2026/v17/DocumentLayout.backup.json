@@ -1,58 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\WCF_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_infrastructure\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|solutionrelative:classwork_4_infrastructure\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_infrastructure\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|solutionrelative:classwork_4_infrastructure\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_application\\dtos\\issuebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\dtos\\issuebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_application\\dtos\\readersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\dtos\\readersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_application\\dtos\\returnbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\dtos\\returnbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89763073-7F51-4388-9879-A7E5864C6D87}|Lecture_7API\\Lecture_7API.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\lecture_7api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89763073-7F51-4388-9879-A7E5864C6D87}|Lecture_7API\\Lecture_7API.csproj|solutionrelative:lecture_7api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_infrastructure\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|solutionrelative:classwork_4_infrastructure\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_infrastructure\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|solutionrelative:classwork_4_infrastructure\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_api\\controllers\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\controllers\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\controllers\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_api\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_application\\services\\readerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\services\\readerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_application\\interfaces\\ireaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\interfaces\\ireaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_application\\dtos\\getreadersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\dtos\\getreadersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|c:\\users\\lab322_student02\\desktop\\wcf_2026\\classwork_4_infrastructure\\services\\readerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|solutionrelative:classwork_4_infrastructure\\services\\readerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_infrastructure\\repositories\\readerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|solutionrelative:classwork_4_infrastructure\\repositories\\readerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_infrastructure\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|solutionrelative:classwork_4_infrastructure\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +54,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -78,176 +74,150 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReturnBookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Application\\DTOs\\ReturnBookDTO.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Application\\DTOs\\ReturnBookDTO.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Application\\DTOs\\ReturnBookDTO.cs",
-              "RelativeToolTip": "Classwork_4_Application\\DTOs\\ReturnBookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ReaderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Services\\ReaderService.cs",
+              "RelativeDocumentMoniker": "Classwork_4_Application\\Services\\ReaderService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Services\\ReaderService.cs",
+              "RelativeToolTip": "Classwork_4_Application\\Services\\ReaderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T16:21:41.541Z",
+              "WhenOpened": "2026-05-07T13:09:23.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReaderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Interfaces\\IReaderService.cs",
+              "RelativeDocumentMoniker": "Classwork_4_Application\\Interfaces\\IReaderService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Interfaces\\IReaderService.cs",
+              "RelativeToolTip": "Classwork_4_Application\\Interfaces\\IReaderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:08:36.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\ReadersController.cs",
+              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\ReadersController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\ReadersController.cs",
+              "RelativeToolTip": "Classwork_4_API\\Controllers\\ReadersController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:05:17.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IssueBookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Application\\DTOs\\IssueBookDTO.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Application\\DTOs\\IssueBookDTO.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Application\\DTOs\\IssueBookDTO.cs",
-              "RelativeToolTip": "Classwork_4_Application\\DTOs\\IssueBookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GetReadersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\DTOs\\GetReadersDTO.cs",
+              "RelativeDocumentMoniker": "Classwork_4_Application\\DTOs\\GetReadersDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\DTOs\\GetReadersDTO.cs",
+              "RelativeToolTip": "Classwork_4_Application\\DTOs\\GetReadersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T16:21:37.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:07:28.65Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ReadersDTO.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Application\\DTOs\\ReadersDTO.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Application\\DTOs\\ReadersDTO.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Application\\DTOs\\ReadersDTO.cs",
-              "RelativeToolTip": "Classwork_4_Application\\DTOs\\ReadersDTO.cs",
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "Classwork_4_API\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:05:19.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "Classwork_4_API\\Controllers\\LoansController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T16:21:34.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_API\\Controllers\\BooksController.cs*",
-              "RelativeToolTip": "Classwork_4_API\\Controllers\\BooksController.cs*",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwBcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:53:40.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoanService.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\Services\\LoanService.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Infrastructure\\Services\\LoanService.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\Services\\LoanService.cs",
-              "RelativeToolTip": "Classwork_4_Infrastructure\\Services\\LoanService.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAIwKcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:54:55.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StatisticsService.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\Services\\StatisticsService.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Infrastructure\\Services\\StatisticsService.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\Services\\StatisticsService.cs",
-              "RelativeToolTip": "Classwork_4_Infrastructure\\Services\\StatisticsService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:55:07.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ReadersController.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_API\\Controllers\\ReadersController.cs",
-              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\ReadersController.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_API\\Controllers\\ReadersController.cs",
-              "RelativeToolTip": "Classwork_4_API\\Controllers\\ReadersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:56:13.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Infrastructure\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\Services\\BookService.cs",
-              "RelativeToolTip": "Classwork_4_Infrastructure\\Services\\BookService.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAwwHYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:59:32.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:05:15.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_API\\Program.cs",
-              "RelativeDocumentMoniker": "Classwork_4_API\\Program.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_API\\Program.cs",
-              "RelativeToolTip": "Classwork_4_API\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCIAAAABAAAAAAAAAA==",
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Classwork_4_API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:55:32.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:03:40.357Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7API\\Program.cs",
-              "RelativeDocumentMoniker": "Lecture_7API\\Program.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Lecture_7API\\Program.cs",
-              "RelativeToolTip": "Lecture_7API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAgAAAAbAAAAAAAAAA==",
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Classwork_4_Application\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Services\\BookService.cs",
+              "RelativeToolTip": "Classwork_4_Application\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T16:09:40.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:02:12.412Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LibraryDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\LibraryDbContext.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Infrastructure\\LibraryDbContext.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\LibraryDbContext.cs",
-              "RelativeToolTip": "Classwork_4_Infrastructure\\LibraryDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "ReaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Infrastructure\\Repositories\\ReaderRepository.cs",
+              "RelativeDocumentMoniker": "Classwork_4_Infrastructure\\Repositories\\ReaderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Infrastructure\\Repositories\\ReaderRepository.cs",
+              "RelativeToolTip": "Classwork_4_Infrastructure\\Repositories\\ReaderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T16:09:29.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:00:05.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoansController.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_API\\Controllers\\LoansController.cs",
-              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\LoansController.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_API\\Controllers\\LoansController.cs",
-              "RelativeToolTip": "Classwork_4_API\\Controllers\\LoansController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wBYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Infrastructure\\Repositories\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "Classwork_4_Infrastructure\\Repositories\\LoanRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Infrastructure\\Repositories\\LoanRepository.cs",
+              "RelativeToolTip": "Classwork_4_Infrastructure\\Repositories\\LoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:56:45.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T12:57:55.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ReaderService.cs",
-              "DocumentMoniker": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\Services\\ReaderService.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Infrastructure\\Services\\ReaderService.cs",
-              "ToolTip": "C:\\Users\\lab322_Student02\\Desktop\\WCF_2026\\Classwork_4_Infrastructure\\Services\\ReaderService.cs",
-              "RelativeToolTip": "Classwork_4_Infrastructure\\Services\\ReaderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Program.cs",
+              "RelativeDocumentMoniker": "Classwork_4_API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Program.cs",
+              "RelativeToolTip": "Classwork_4_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:55:06.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T12:20:26.561Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

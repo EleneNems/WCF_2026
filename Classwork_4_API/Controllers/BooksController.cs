@@ -1,9 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Classwork_4_Application.DTOs;
-using Classwork_4_Domain.Entity;
-using Classwork_4_Infrastructure.Services;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+﻿using Classwork_4_Application.DTOs;
+using Classwork_4_Application.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Classwork_4_API.Controllers;
 
@@ -11,21 +8,17 @@ namespace Classwork_4_API.Controllers;
 [ApiController]
 public class BooksController : ControllerBase
 {
-    private readonly BookService _bookService;
+    private readonly IBookService _bookService;
 
-    public BooksController(BookService bookService)
+    public BooksController(IBookService bookService)
     {
         _bookService = bookService;
     }
 
     [HttpGet]
-    public async Task<IActionResult> GetBooks(
-        [FromQuery] string? title,
-        [FromQuery] string? author,
-        [FromQuery] string? category,
-        [FromQuery] string? isbn)
+    public async Task<IActionResult> GetBooks([FromQuery] GetBooksDTO filter)
     {
-        var books = await _bookService.GetBooksAsync(title, author, category, isbn);
+        var books = await _bookService.GetBooksAsync(filter);
         return Ok(books);
     }
 
@@ -43,37 +36,14 @@ public class BooksController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> AddBook(CreateBookDTO dto)
     {
-        var book = new Book
-        {
-            Title = dto.Title,
-            ISBN = dto.ISBN,
-            PublishYear = dto.PublishYear,
-            Category = dto.Category,
-            Author = dto.Author,
-            TotalQuantity = dto.TotalQuantity,
-            AvailableQuantity = dto.AvailableQuantity
-        };
-
-        var result = await _bookService.AddBookAsync(book);
+        var result = await _bookService.AddBookAsync(dto);
         return Ok(result);
     }
 
     [HttpPut]
     public async Task<IActionResult> UpdateBook(UpdateBookDTO dto)
     {
-        var book = new Book
-        {
-            Id = dto.Id,
-            Title = dto.Title,
-            ISBN = dto.ISBN,
-            PublishYear = dto.PublishYear,
-            Category = dto.Category,
-            Author = dto.Author,
-            TotalQuantity = dto.TotalQuantity,
-            AvailableQuantity = dto.AvailableQuantity
-        };
-
-        var result = await _bookService.UpdateBookAsync(book);
+        var result = await _bookService.UpdateBookAsync(dto);
         return Ok(result);
     }
 

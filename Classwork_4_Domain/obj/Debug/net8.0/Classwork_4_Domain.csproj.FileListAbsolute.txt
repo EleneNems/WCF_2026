@@ -10,3 +10,15 @@ C:\Users\lab322_Student02\Desktop\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\C
 C:\Users\lab322_Student02\Desktop\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\refint\Classwork_4_Domain.dll
 C:\Users\lab322_Student02\Desktop\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\Classwork_4_Domain.pdb
 C:\Users\lab322_Student02\Desktop\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\ref\Classwork_4_Domain.dll
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\bin\Debug\net8.0\Classwork_4_Domain.deps.json
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\bin\Debug\net8.0\Classwork_4_Domain.dll
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\bin\Debug\net8.0\Classwork_4_Domain.pdb
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\Classwork_4_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\Classwork_4_Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\Classwork_4_Domain.AssemblyInfo.cs
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\Classwork_4_Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\Classwork_4_Domain.sourcelink.json
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\Classwork_4_Domain.dll
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\refint\Classwork_4_Domain.dll
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\Classwork_4_Domain.pdb
+C:\Users\User\Documents\WCF_2026\Classwork_4_Domain\obj\Debug\net8.0\ref\Classwork_4_Domain.dll

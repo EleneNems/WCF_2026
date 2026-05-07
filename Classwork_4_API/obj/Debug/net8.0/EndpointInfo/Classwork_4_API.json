@@ -12,28 +12,44 @@
         ],
         "parameters": [
           {
-            "name": "title",
+            "name": "Title",
             "in": "query",
             "schema": {
               "type": "string"
             }
           },
           {
-            "name": "author",
+            "name": "ISBN",
             "in": "query",
             "schema": {
               "type": "string"
             }
           },
           {
-            "name": "category",
+            "name": "AuthorId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "CategoryId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "AuthorName",
             "in": "query",
             "schema": {
               "type": "string"
             }
           },
           {
-            "name": "isbn",
+            "name": "CategoryName",
             "in": "query",
             "schema": {
               "type": "string"
@@ -230,10 +246,11 @@
         ],
         "parameters": [
           {
-            "name": "status",
+            "name": "Status",
             "in": "query",
             "schema": {
-              "$ref": "#/components/schemas/ReaderStatus"
+              "type": "integer",
+              "format": "int32"
             }
           }
         ],
@@ -376,13 +393,13 @@
             "type": "integer",
             "format": "int32"
           },
-          "category": {
-            "type": "string",
-            "nullable": true
+          "authorId": {
+            "type": "integer",
+            "format": "int32"
           },
-          "author": {
-            "type": "string",
-            "nullable": true
+          "categoryId": {
+            "type": "integer",
+            "format": "int32"
           },
           "totalQuantity": {
             "type": "integer",
@@ -497,13 +514,13 @@
             "type": "integer",
             "format": "int32"
           },
-          "category": {
-            "type": "string",
-            "nullable": true
+          "authorId": {
+            "type": "integer",
+            "format": "int32"
           },
-          "author": {
-            "type": "string",
-            "nullable": true
+          "categoryId": {
+            "type": "integer",
+            "format": "int32"
           },
           "totalQuantity": {
             "type": "integer",

@@ -1,8 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Classwork_4_Application.DTOs;
-using Classwork_4_Domain.Entity;
-using Classwork_4_Infrastructure.Services;
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+﻿using Classwork_4_Application.DTOs;
+using Classwork_4_Application.Interfaces;
+
+using Microsoft.AspNetCore.Mvc;
 
 namespace Classwork_4_API.Controllers;
 
@@ -10,17 +9,17 @@ namespace Classwork_4_API.Controllers;
 [ApiController]
 public class ReadersController : ControllerBase
 {
-    private readonly ReaderService _readerService;
+    private readonly IReaderService _readerService;
 
-    public ReadersController(ReaderService readerService)
+    public ReadersController(IReaderService readerService)
     {
         _readerService = readerService;
     }
 
     [HttpGet]
-    public async Task<IActionResult> GetReaders([FromQuery] ReaderStatus? status)
+    public async Task<IActionResult> GetReaders([FromQuery] GetReadersDTO filter)
     {
-        var readers = await _readerService.GetReadersAsync(status);
+        var readers = await _readerService.GetReadersAsync(filter);
         return Ok(readers);
     }
 
@@ -38,34 +37,14 @@ public class ReadersController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> AddReader(CreateReaderDTO dto)
     {
-        var reader = new Reader
-        {
-            FirstName = dto.FirstName,
-            LastName = dto.LastName,
-            PersonalNumber = dto.PersonalNumber,
-            Phone = dto.Phone,
-            Email = dto.Email
-        };
-
-        var result = await _readerService.AddReaderAsync(reader);
+        var result = await _readerService.AddReaderAsync(dto);
         return Ok(result);
     }
 
     [HttpPut]
     public async Task<IActionResult> UpdateReader(UpdateReaderDTO dto)
     {
-        var reader = new Reader
-        {
-            Id = dto.Id,
-            FirstName = dto.FirstName,
-            LastName = dto.LastName,
-            PersonalNumber = dto.PersonalNumber,
-            Phone = dto.Phone,
-            Email = dto.Email,
-            Status = dto.Status
-        };
-
-        var result = await _readerService.UpdateReaderAsync(reader);
+        var result = await _readerService.UpdateReaderAsync(dto);
         return Ok(result);
     }
 
