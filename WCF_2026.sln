@@ -72,6 +72,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork_4_Domain", "Class
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork_4_Infrastructure", "Classwork_4_Infrastructure\Classwork_4_Infrastructure.csproj", "{FD390C9D-DE69-4156-981A-F08A2E39BC00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApiComparison", "MovieApiComparison\MovieApiComparison.csproj", "{450E722D-F4CA-4075-A903-2A11B01E6F83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -178,6 +180,10 @@ Global
 		{FD390C9D-DE69-4156-981A-F08A2E39BC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD390C9D-DE69-4156-981A-F08A2E39BC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD390C9D-DE69-4156-981A-F08A2E39BC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450E722D-F4CA-4075-A903-2A11B01E6F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450E722D-F4CA-4075-A903-2A11B01E6F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450E722D-F4CA-4075-A903-2A11B01E6F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450E722D-F4CA-4075-A903-2A11B01E6F83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

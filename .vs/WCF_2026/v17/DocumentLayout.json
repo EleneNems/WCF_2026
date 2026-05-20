@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\WCF_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\controllers\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\controllers\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|c:\\users\\user\\documents\\wcf_2026\\movieapicomparison\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|solutionrelative:movieapicomparison\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_application\\services\\readerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\services\\readerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|c:\\users\\user\\documents\\wcf_2026\\movieapicomparison\\movieapicomparison.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|solutionrelative:movieapicomparison\\movieapicomparison.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_application\\interfaces\\ireaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\interfaces\\ireaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|c:\\users\\user\\documents\\wcf_2026\\movieapicomparison\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|solutionrelative:movieapicomparison\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_application\\dtos\\getreadersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\dtos\\getreadersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|c:\\users\\user\\documents\\wcf_2026\\movieapicomparison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|solutionrelative:movieapicomparison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|c:\\users\\user\\documents\\wcf_2026\\movieapicomparison\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|solutionrelative:movieapicomparison\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F5F500E-37DB-4A38-89F7-629A10640CF2}|Classwork_4_Application\\Classwork_4_Application.csproj|solutionrelative:classwork_4_application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_infrastructure\\repositories\\readerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|solutionrelative:classwork_4_infrastructure\\repositories\\readerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_infrastructure\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD390C9D-DE69-4156-981A-F08A2E39BC00}|Classwork_4_Infrastructure\\Classwork_4_Infrastructure.csproj|solutionrelative:classwork_4_infrastructure\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|c:\\users\\user\\documents\\wcf_2026\\classwork_4_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84AE53-0B35-4084-9CB5-221E4C09D713}|Classwork_4_API\\Classwork_4_API.csproj|solutionrelative:classwork_4_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|c:\\users\\user\\documents\\wcf_2026\\movieapicomparison\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450E722D-F4CA-4075-A903-2A11B01E6F83}|MovieApiComparison\\MovieApiComparison.csproj|solutionrelative:movieapicomparison\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,135 +59,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReaderService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Services\\ReaderService.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Application\\Services\\ReaderService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Services\\ReaderService.cs",
-              "RelativeToolTip": "Classwork_4_Application\\Services\\ReaderService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:09:23.086Z"
+              "Title": "MovieApiComparison.http",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\MovieApiComparison.http",
+              "RelativeDocumentMoniker": "MovieApiComparison\\MovieApiComparison.http",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\MovieApiComparison.http",
+              "RelativeToolTip": "MovieApiComparison\\MovieApiComparison.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-18T08:13:54.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IReaderService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Interfaces\\IReaderService.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Application\\Interfaces\\IReaderService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Interfaces\\IReaderService.cs",
-              "RelativeToolTip": "Classwork_4_Application\\Interfaces\\IReaderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieApiComparison\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieApiComparison\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:08:36.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReadersController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\ReadersController.cs",
-              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\ReadersController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\ReadersController.cs",
-              "RelativeToolTip": "Classwork_4_API\\Controllers\\ReadersController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:05:17.978Z",
+              "WhenOpened": "2026-05-18T08:10:21.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GetReadersDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\DTOs\\GetReadersDTO.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Application\\DTOs\\GetReadersDTO.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\DTOs\\GetReadersDTO.cs",
-              "RelativeToolTip": "Classwork_4_Application\\DTOs\\GetReadersDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApiComparison\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\Program.cs",
+              "RelativeToolTip": "MovieApiComparison\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:07:28.65Z"
+              "WhenOpened": "2026-05-18T08:09:03.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieApiComparison\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\appsettings.json",
+              "RelativeToolTip": "MovieApiComparison\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T08:07:37.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StatisticsController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\StatisticsController.cs",
-              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\StatisticsController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\StatisticsController.cs",
-              "RelativeToolTip": "Classwork_4_API\\Controllers\\StatisticsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\Data\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "MovieApiComparison\\Data\\MovieDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\Data\\MovieDbContext.cs",
+              "RelativeToolTip": "MovieApiComparison\\Data\\MovieDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:05:19.356Z"
+              "WhenOpened": "2026-05-18T08:07:24.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LoansController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\LoansController.cs",
-              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\LoansController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\LoansController.cs",
-              "RelativeToolTip": "Classwork_4_API\\Controllers\\LoansController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApiComparison\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\MovieApiComparison\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieApiComparison\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:05:15.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Classwork_4_API\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Classwork_4_API\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:03:40.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Application\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Application\\Services\\BookService.cs",
-              "RelativeToolTip": "Classwork_4_Application\\Services\\BookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:02:12.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReaderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Infrastructure\\Repositories\\ReaderRepository.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Infrastructure\\Repositories\\ReaderRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Infrastructure\\Repositories\\ReaderRepository.cs",
-              "RelativeToolTip": "Classwork_4_Infrastructure\\Repositories\\ReaderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:00:05.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Infrastructure\\Repositories\\LoanRepository.cs",
-              "RelativeDocumentMoniker": "Classwork_4_Infrastructure\\Repositories\\LoanRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_Infrastructure\\Repositories\\LoanRepository.cs",
-              "RelativeToolTip": "Classwork_4_Infrastructure\\Repositories\\LoanRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T12:57:55.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Program.cs",
-              "RelativeDocumentMoniker": "Classwork_4_API\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Classwork_4_API\\Program.cs",
-              "RelativeToolTip": "Classwork_4_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T12:20:26.561Z"
+              "WhenOpened": "2026-05-18T08:06:58.368Z",
+              "EditorCaption": ""
             }
           ]
         },
