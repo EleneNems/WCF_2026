@@ -3,11 +3,11 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "LibraryManagement.Service\\LibraryManagement.Service.csproj",
+        "Path": "Wordle_API\\Wordle_API.csproj",
         "Action": "Start"
       },
       {
-        "Path": "LibraryManagement.Client\\LibraryManagement.Client.csproj",
+        "Path": "Wordle_WinForms\\Wordle_WinForms.csproj",
         "Action": "Start"
       }
     ]

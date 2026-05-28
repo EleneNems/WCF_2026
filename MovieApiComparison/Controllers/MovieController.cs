@@ -57,7 +57,6 @@ namespace MovieApiComparison.Controllers
             return Ok(movie);
         }
 
-        // DELETE:
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteMovie(int id)
         {

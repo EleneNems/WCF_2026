@@ -37,9 +37,7 @@ app.MapGet("/minimal/movies/{id}", async (int id, MovieDbContext db) =>
 {
     var movie = await db.Movies.FindAsync(id);
 
-    return movie is not null
-        ? Results.Ok(movie)
-        : Results.NotFound();
+    return movie is not null ? Results.Ok(movie) : Results.NotFound();
 })
 .WithTags("Minimal API - Movies");
 
@@ -57,7 +55,9 @@ app.MapPut("/minimal/movies/{id}/rating", async (int id, double rating, MovieDbC
     var movie = await db.Movies.FindAsync(id);
 
     if (movie is null)
+    {
         return Results.NotFound();
+    }
 
     movie.Rating = rating;
     await db.SaveChangesAsync();
