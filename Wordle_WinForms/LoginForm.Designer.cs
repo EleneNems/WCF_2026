@@ -1,4 +1,5 @@
 ﻿using System.Net.Http.Json;
+using System.Security.Principal;
 using System.Text.Json.Serialization;
 
 namespace Wordle_WinForms
@@ -13,6 +14,7 @@ namespace Wordle_WinForms
         {
             InitializeComponent();
             _httpClient.BaseAddress = new Uri(ApiBaseUrl);
+            
         }
 
         private async void btnContinue_Click(object sender, EventArgs e)
@@ -33,23 +35,26 @@ namespace Wordle_WinForms
 
             var request = new AuthRequest
             {
-                Username = username,
-                Password = ""
+                Email = txtEmail.Text,
+                Password = txtPassword.Text
             };
 
             var response = await _httpClient.PostAsJsonAsync("/api/auth/login", request);
 
             if (!response.IsSuccessStatusCode)
             {
-                RegisterForm registerForm = new RegisterForm(username);
-                registerForm.Show();
-                this.Hide();
+
+                var errorContent = await response.Content.ReadAsStringAsync();
+                MessageBox.Show("Login failed. Please check your credentials.");
                 return;
             }
 
             var result = await response.Content.ReadFromJsonAsync<AuthResponse>();
+            AppSession.UserId = result!.UserId;
+            AppSession.Username = result.Email;
+            AppSession.Token = result.Token;
 
-            Form1 gameForm = new Form1(result!.UserId, result.Username);
+            Form1 gameForm = new Form1(result.UserId, result.Email);
             gameForm.Show();
 
             this.Hide();
@@ -64,7 +69,7 @@ namespace Wordle_WinForms
 
         public class AuthRequest
         {
-            public string Username { get; set; } = "";
+            public string Email { get; set; } = "";
             public string Password { get; set; } = "";
         }
 
@@ -73,11 +78,21 @@ namespace Wordle_WinForms
             [JsonPropertyName("userId")]
             public int UserId { get; set; }
 
-            [JsonPropertyName("username")]
-            public string Username { get; set; } = "";
+            [JsonPropertyName("email")]
+            public string Email { get; set; } = "";
 
             [JsonPropertyName("message")]
             public string Message { get; set; } = "";
+
+            [JsonPropertyName("token")]
+            public string Token { get; set; } = "";
+        }
+
+        public static class AppSession
+        {
+            public static int UserId { get; set; }
+            public static string Username { get; set; } = "";
+            public static string Token { get; set; } = "";
         }
 
         private bool IsValidEmail(string email)
@@ -87,5 +102,7 @@ namespace Wordle_WinForms
                 @"^[^@\s]+@[^@\s]+\.[^@\s]+$"
             );
         }
+        private TextBox txtPassword;
+        private Label label1;
     }
 }

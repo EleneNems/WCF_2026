@@ -1,7 +1,7 @@
-C:\Users\User\Documents\WCF_2026\BankService\obj\Debug\BankService.csproj.AssemblyReference.cache
-C:\Users\User\Documents\WCF_2026\BankService\obj\Debug\BankService.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\WCF_2026\BankService\bin\Debug\BankService.dll.config
 C:\Users\User\Documents\WCF_2026\BankService\bin\Debug\BankService.dll
 C:\Users\User\Documents\WCF_2026\BankService\bin\Debug\BankService.pdb
+C:\Users\User\Documents\WCF_2026\BankService\obj\Debug\BankService.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WCF_2026\BankService\obj\Debug\BankService.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\WCF_2026\BankService\obj\Debug\BankService.dll
 C:\Users\User\Documents\WCF_2026\BankService\obj\Debug\BankService.pdb

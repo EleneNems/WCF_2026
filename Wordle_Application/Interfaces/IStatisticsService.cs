@@ -10,5 +10,6 @@ namespace Wordle_Application.Interfaces
     public interface IStatisticsService
     {
         Task<StatisticsDto> GetStatisticsAsync(int userId);
+        Task UpdateAfterGameAsync(int userId, bool isWin, int attempts);
     }
 }

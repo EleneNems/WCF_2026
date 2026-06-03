@@ -23,6 +23,11 @@ public partial class Form1 : Form
         _currentUsername = username;
 
         _httpClient.BaseAddress = new Uri(ApiBaseUrl);
+
+        _httpClient.DefaultRequestHeaders.Authorization =
+            new System.Net.Http.Headers.AuthenticationHeaderValue(
+                "Bearer",
+                LoginForm.AppSession.Token);
     }
 
     private async void Form1_Load(object sender, EventArgs e)
@@ -285,6 +290,7 @@ public class AuthResponse
     public int UserId { get; set; }
     public string Username { get; set; } = "";
     public string Message { get; set; } = "";
+    public string Email { get; internal set; }
 }
 
 public class StatisticsResponse

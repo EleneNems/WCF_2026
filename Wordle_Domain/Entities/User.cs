@@ -10,10 +10,11 @@ namespace Wordle_Domain.Entities
     {
         public int Id { get; set; }
 
-        public string Username { get; set; } = string.Empty;
+        public string Email { get; set; } = "";
 
-        public string Password { get; set; } = string.Empty;
+        public string PasswordHash { get; set; } = "";
 
-        public List<Game> Games { get; set; } = new();
+        public Statistic? Statistic { get; set; }
+        public ICollection<Game> Games { get; set; } = new List<Game>();
     }
 }

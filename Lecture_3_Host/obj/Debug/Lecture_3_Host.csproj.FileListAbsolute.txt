@@ -1,12 +1,11 @@
-C:\Users\User\Documents\WCF_2026\Lecture_3_Host\obj\Debug\Lecture_3_Host.csproj.AssemblyReference.cache
-C:\Users\User\Documents\WCF_2026\Lecture_3_Host\obj\Debug\Lecture_3_Host.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\WCF_2026\Lecture_3_Host\bin\Debug\Lecture_3_Host.exe.config
 C:\Users\User\Documents\WCF_2026\Lecture_3_Host\bin\Debug\Lecture_3_Host.exe
 C:\Users\User\Documents\WCF_2026\Lecture_3_Host\bin\Debug\Lecture_3_Host.pdb
 C:\Users\User\Documents\WCF_2026\Lecture_3_Host\bin\Debug\Lecture_3_Service.dll
 C:\Users\User\Documents\WCF_2026\Lecture_3_Host\bin\Debug\Lecture_3_Service.pdb
 C:\Users\User\Documents\WCF_2026\Lecture_3_Host\bin\Debug\Lecture_3_Service.dll.config
+C:\Users\User\Documents\WCF_2026\Lecture_3_Host\obj\Debug\Lecture_3_Host.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WCF_2026\Lecture_3_Host\obj\Debug\Lecture_3_Host.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\WCF_2026\Lecture_3_Host\obj\Debug\Lecture_.0C6D8FCF.Up2Date
 C:\Users\User\Documents\WCF_2026\Lecture_3_Host\obj\Debug\Lecture_3_Host.exe
 C:\Users\User\Documents\WCF_2026\Lecture_3_Host\obj\Debug\Lecture_3_Host.pdb
-C:\Users\User\Documents\WCF_2026\Lecture_3_Host\obj\Debug\Lecture_3_Host.exe.config

@@ -9,15 +9,17 @@ namespace Wordle_Infrastructure.Services
     public class GameService : IGameService
     {
         private readonly AppDBContext _context;
+        private readonly IStatisticsService _statisticsService;
 
         private readonly List<string> _words = new()
         {
         "apple", "grape", "house", "plant", "table", "chair", "water", "bread"
         };
 
-        public GameService(AppDBContext context)
+        public GameService(AppDBContext context, IStatisticsService statisticsService)
         {
             _context = context;
+            _statisticsService = statisticsService;
         }
 
         public async Task<StartGameResponseDto> StartGameAsync(StartGameRequestDto request)
@@ -86,6 +88,11 @@ namespace Wordle_Infrastructure.Services
 
             _context.Guesses.Add(guess);
             await _context.SaveChangesAsync();
+
+            if ((game.IsWin || game.EndDate != null) && game.UserId.HasValue)
+            {
+                await _statisticsService.UpdateAfterGameAsync(game.UserId.Value, game.IsWin, game.Attempts);
+            }
 
             return new GuessResponseDto
             {

@@ -87,6 +87,40 @@ namespace Wordle_Infrastructure.Migrations
                     b.ToTable("Guesses");
                 });
 
+            modelBuilder.Entity("Wordle_Domain.Entities.Statistic", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CurrentStreak")
+                        .HasColumnType("int");
+
+                    b.Property<int>("GamesPlayed")
+                        .HasColumnType("int");
+
+                    b.Property<int>("MaxStreak")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TotalPoints")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Wins")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId")
+                        .IsUnique();
+
+                    b.ToTable("Statistics");
+                });
+
             modelBuilder.Entity("Wordle_Domain.Entities.User", b =>
                 {
                     b.Property<int>("Id")
@@ -95,19 +129,19 @@ namespace Wordle_Infrastructure.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Password")
+                    b.Property<string>("Email")
                         .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<string>("Username")
+                    b.Property<string>("PasswordHash")
                         .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("Username")
+                    b.HasIndex("Email")
                         .IsUnique();
 
                     b.ToTable("Users");
@@ -134,6 +168,17 @@ namespace Wordle_Infrastructure.Migrations
                     b.Navigation("Game");
                 });
 
+            modelBuilder.Entity("Wordle_Domain.Entities.Statistic", b =>
+                {
+                    b.HasOne("Wordle_Domain.Entities.User", "User")
+                        .WithOne("Statistic")
+                        .HasForeignKey("Wordle_Domain.Entities.Statistic", "UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("Wordle_Domain.Entities.Game", b =>
                 {
                     b.Navigation("Guesses");
@@ -142,6 +187,8 @@ namespace Wordle_Infrastructure.Migrations
             modelBuilder.Entity("Wordle_Domain.Entities.User", b =>
                 {
                     b.Navigation("Games");
+
+                    b.Navigation("Statistic");
                 });
 #pragma warning restore 612, 618
         }

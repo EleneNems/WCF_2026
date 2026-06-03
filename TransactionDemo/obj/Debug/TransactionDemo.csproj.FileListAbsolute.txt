@@ -5,4 +5,3 @@ C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.cspro
 C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.exe
 C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.pdb
-C:\Users\User\Documents\WCF_2026\TransactionDemo\obj\Debug\TransactionDemo.exe.config

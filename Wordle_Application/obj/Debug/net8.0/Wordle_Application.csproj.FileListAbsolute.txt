@@ -1,6 +1,7 @@
 C:\Users\User\Documents\WCF_2026\Wordle_Application\bin\Debug\net8.0\Wordle_Application.deps.json
 C:\Users\User\Documents\WCF_2026\Wordle_Application\bin\Debug\net8.0\Wordle_Application.dll
 C:\Users\User\Documents\WCF_2026\Wordle_Application\bin\Debug\net8.0\Wordle_Application.pdb
+C:\Users\User\Documents\WCF_2026\Wordle_Application\obj\Debug\net8.0\Wordle_Application.csproj.AssemblyReference.cache
 C:\Users\User\Documents\WCF_2026\Wordle_Application\obj\Debug\net8.0\Wordle_Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\Documents\WCF_2026\Wordle_Application\obj\Debug\net8.0\Wordle_Application.AssemblyInfoInputs.cache
 C:\Users\User\Documents\WCF_2026\Wordle_Application\obj\Debug\net8.0\Wordle_Application.AssemblyInfo.cs

@@ -3,28 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\WCF_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_winforms\\howtoplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|solutionrelative:wordle_winforms\\howtoplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{96731448-7207-4D28-B9BE-A14FF3550797}|Wordle_Infrastructure\\Wordle_Infrastructure.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_infrastructure\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96731448-7207-4D28-B9BE-A14FF3550797}|Wordle_Infrastructure\\Wordle_Infrastructure.csproj|solutionrelative:wordle_infrastructure\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_winforms\\howtoplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|solutionrelative:wordle_winforms\\howtoplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96731448-7207-4D28-B9BE-A14FF3550797}|Wordle_Infrastructure\\Wordle_Infrastructure.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96731448-7207-4D28-B9BE-A14FF3550797}|Wordle_Infrastructure\\Wordle_Infrastructure.csproj|solutionrelative:wordle_infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_winforms\\howtoplayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|solutionrelative:wordle_winforms\\howtoplayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96731448-7207-4D28-B9BE-A14FF3550797}|Wordle_Infrastructure\\Wordle_Infrastructure.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_infrastructure\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96731448-7207-4D28-B9BE-A14FF3550797}|Wordle_Infrastructure\\Wordle_Infrastructure.csproj|solutionrelative:wordle_infrastructure\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_winforms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|solutionrelative:wordle_winforms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_winforms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|solutionrelative:wordle_winforms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_winforms\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|solutionrelative:wordle_winforms\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BE4326-2DD8-478F-A10A-D3B6D9EBA664}|Wordle_Application\\Wordle_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_application\\dtos\\statisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BE4326-2DD8-478F-A10A-D3B6D9EBA664}|Wordle_Application\\Wordle_Application.csproj|solutionrelative:wordle_application\\dtos\\statisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_winforms\\statsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|solutionrelative:wordle_winforms\\statsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF71DCDD-E8B8-4CA1-9532-A91F4B15A3D5}|Wordle_WinForms\\Wordle_WinForms.csproj|solutionrelative:wordle_winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BE4326-2DD8-478F-A10A-D3B6D9EBA664}|Wordle_Application\\Wordle_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_application\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BE4326-2DD8-478F-A10A-D3B6D9EBA664}|Wordle_Application\\Wordle_Application.csproj|solutionrelative:wordle_application\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3094F6BF-741E-4B3B-9B12-C37B64549DE8}|Wordle_Domain\\Wordle_Domain.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094F6BF-741E-4B3B-9B12-C37B64549DE8}|Wordle_Domain\\Wordle_Domain.csproj|solutionrelative:wordle_domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96731448-7207-4D28-B9BE-A14FF3550797}|Wordle_Infrastructure\\Wordle_Infrastructure.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96731448-7207-4D28-B9BE-A14FF3550797}|Wordle_Infrastructure\\Wordle_Infrastructure.csproj|solutionrelative:wordle_infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3094F6BF-741E-4B3B-9B12-C37B64549DE8}|Wordle_Domain\\Wordle_Domain.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_domain\\entities\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094F6BF-741E-4B3B-9B12-C37B64549DE8}|Wordle_Domain\\Wordle_Domain.csproj|solutionrelative:wordle_domain\\entities\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2B3256-B740-4A9A-B908-CD14AFE55F33}|Wordle_API\\Wordle_API.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF2B3256-B740-4A9A-B908-CD14AFE55F33}|Wordle_API\\Wordle_API.csproj|solutionrelative:wordle_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2B3256-B740-4A9A-B908-CD14AFE55F33}|Wordle_API\\Wordle_API.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2B3256-B740-4A9A-B908-CD14AFE55F33}|Wordle_API\\Wordle_API.csproj|solutionrelative:wordle_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BE4326-2DD8-478F-A10A-D3B6D9EBA664}|Wordle_Application\\Wordle_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BE4326-2DD8-478F-A10A-D3B6D9EBA664}|Wordle_Application\\Wordle_Application.csproj|solutionrelative:wordle_application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BE4326-2DD8-478F-A10A-D3B6D9EBA664}|Wordle_Application\\Wordle_Application.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BE4326-2DD8-478F-A10A-D3B6D9EBA664}|Wordle_Application\\Wordle_Application.csproj|solutionrelative:wordle_application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3094F6BF-741E-4B3B-9B12-C37B64549DE8}|Wordle_Domain\\Wordle_Domain.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_domain\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3094F6BF-741E-4B3B-9B12-C37B64549DE8}|Wordle_Domain\\Wordle_Domain.csproj|solutionrelative:wordle_domain\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2B3256-B740-4A9A-B908-CD14AFE55F33}|Wordle_API\\Wordle_API.csproj|c:\\users\\user\\documents\\wcf_2026\\wordle_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2B3256-B740-4A9A-B908-CD14AFE55F33}|Wordle_API\\Wordle_API.csproj|solutionrelative:wordle_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,66 +106,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Wordle_WinForms\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\Form1.Designer.cs",
-              "RelativeToolTip": "Wordle_WinForms\\Form1.Designer.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAADwv9oAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T21:05:30.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HowToPlayForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\HowToPlayForm.cs",
-              "RelativeDocumentMoniker": "Wordle_WinForms\\HowToPlayForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\HowToPlayForm.cs [Design]",
-              "RelativeToolTip": "Wordle_WinForms\\HowToPlayForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T20:53:58.327Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HowToPlayForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\HowToPlayForm.Designer.cs",
-              "RelativeDocumentMoniker": "Wordle_WinForms\\HowToPlayForm.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\HowToPlayForm.Designer.cs",
-              "RelativeToolTip": "Wordle_WinForms\\HowToPlayForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T20:53:36.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HowToPlayForm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\HowToPlayForm.cs",
-              "RelativeDocumentMoniker": "Wordle_WinForms\\HowToPlayForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\HowToPlayForm.cs",
-              "RelativeToolTip": "Wordle_WinForms\\HowToPlayForm.cs",
-              "ViewState": "AgIAAC8BAAAAAAAAAAAswGwBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T20:51:20.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Wordle_WinForms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\LoginForm.cs [Design]",
-              "RelativeToolTip": "Wordle_WinForms\\LoginForm.cs [Design]",
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "Wordle_WinForms\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "Wordle_WinForms\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwHQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T20:46:27.002Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-03T18:40:39.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,10 +125,211 @@
               "RelativeDocumentMoniker": "Wordle_WinForms\\LoginForm.Designer.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\LoginForm.Designer.cs",
               "RelativeToolTip": "Wordle_WinForms\\LoginForm.Designer.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T20:46:25.789Z",
+              "WhenOpened": "2026-06-03T18:40:52.358Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Infrastructure\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "Wordle_Infrastructure\\Services\\StatisticsService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Infrastructure\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "Wordle_Infrastructure\\Services\\StatisticsService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:09:39.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\StatsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Wordle_WinForms\\StatsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\StatsForm.Designer.cs",
+              "RelativeToolTip": "Wordle_WinForms\\StatsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:07:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Infrastructure\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Wordle_Infrastructure\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Infrastructure\\Services\\GameService.cs",
+              "RelativeToolTip": "Wordle_Infrastructure\\Services\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:09:40.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Wordle_WinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_WinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "Wordle_WinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAywOMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:02:29.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Application\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "Wordle_Application\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Application\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "Wordle_Application\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:21:07.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Wordle_Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "Wordle_Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:19:27.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatisticsDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Application\\DTOs\\StatisticsDto.cs",
+              "RelativeDocumentMoniker": "Wordle_Application\\DTOs\\StatisticsDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Application\\DTOs\\StatisticsDto.cs",
+              "RelativeToolTip": "Wordle_Application\\DTOs\\StatisticsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:11:29.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Wordle_Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Wordle_Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:17:20.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Infrastructure\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Wordle_Infrastructure\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Infrastructure\\AppDBContext.cs",
+              "RelativeToolTip": "Wordle_Infrastructure\\AppDBContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:13:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Wordle_API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Wordle_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA/wCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:40:26.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Wordle_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_API\\appsettings.json",
+              "RelativeToolTip": "Wordle_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T18:24:49.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Wordle_Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Wordle_Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:20:57.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Wordle_Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Wordle_Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:20:43.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Domain\\Entities\\Statistic.cs",
+              "RelativeDocumentMoniker": "Wordle_Domain\\Entities\\Statistic.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Domain\\Entities\\Statistic.cs",
+              "RelativeToolTip": "Wordle_Domain\\Entities\\Statistic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:17:19.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Domain\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Wordle_Domain\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_Domain\\Entities\\Game.cs",
+              "RelativeToolTip": "Wordle_Domain\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:16:33.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_API\\Program.cs",
+              "RelativeDocumentMoniker": "Wordle_API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WCF_2026\\Wordle_API\\Program.cs",
+              "RelativeToolTip": "Wordle_API\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:13:22.728Z"
             }
           ]
         },

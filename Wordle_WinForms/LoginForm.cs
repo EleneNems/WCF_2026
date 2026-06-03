@@ -36,6 +36,8 @@ namespace Wordle_WinForms
             btnContinue = new Button();
             lblRegisterText = new Label();
             linkRegister = new LinkLabel();
+            this.txtPassword = new TextBox();
+            this.label1 = new Label();
             SuspendLayout();
             // 
             // lblTitle
@@ -73,7 +75,7 @@ namespace Wordle_WinForms
             btnContinue.FlatStyle = FlatStyle.Flat;
             btnContinue.Font = new Font("Segoe UI", 18F, FontStyle.Bold);
             btnContinue.ForeColor = Color.White;
-            btnContinue.Location = new Point(48, 295);
+            btnContinue.Location = new Point(48, 430);
             btnContinue.Name = "btnContinue";
             btnContinue.Size = new Size(805, 80);
             btnContinue.TabIndex = 3;
@@ -84,7 +86,7 @@ namespace Wordle_WinForms
             // lblRegisterText
             // 
             lblRegisterText.Font = new Font("Segoe UI", 11F);
-            lblRegisterText.Location = new Point(51, 396);
+            lblRegisterText.Location = new Point(51, 531);
             lblRegisterText.Name = "lblRegisterText";
             lblRegisterText.Size = new Size(237, 30);
             lblRegisterText.TabIndex = 4;
@@ -94,7 +96,7 @@ namespace Wordle_WinForms
             // 
             linkRegister.Font = new Font("Segoe UI", 11F, FontStyle.Bold);
             linkRegister.LinkColor = Color.Black;
-            linkRegister.Location = new Point(294, 396);
+            linkRegister.Location = new Point(294, 531);
             linkRegister.Name = "linkRegister";
             linkRegister.Size = new Size(100, 30);
             linkRegister.TabIndex = 5;
@@ -102,12 +104,32 @@ namespace Wordle_WinForms
             linkRegister.Text = "Sign up";
             linkRegister.LinkClicked += linkRegister_LinkClicked;
             // 
+            // txtPassword
+            // 
+            this.txtPassword.BorderStyle = BorderStyle.FixedSingle;
+            this.txtPassword.Font = new Font("Segoe UI", 18F);
+            this.txtPassword.Location = new Point(48, 335);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new Size(805, 55);
+            this.txtPassword.TabIndex = 6;
+            // 
+            // label1
+            // 
+            this.label1.Font = new Font("Segoe UI", 15F, FontStyle.Bold);
+            this.label1.Location = new Point(48, 282);
+            this.label1.Name = "label1";
+            this.label1.Size = new Size(300, 40);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "Password";
+            // 
             // LoginForm
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(900, 470);
+            ClientSize = new Size(900, 619);
+            Controls.Add(this.label1);
+            Controls.Add(this.txtPassword);
             Controls.Add(lblTitle);
             Controls.Add(lblEmail);
             Controls.Add(txtEmail);

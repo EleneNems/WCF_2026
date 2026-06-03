@@ -13,5 +13,6 @@ namespace Wordle_Application.DTOs
         public int WinPercentage { get; set; }
         public int CurrentStreak { get; set; }
         public int MaxStreak { get; set; }
+        public int TotalPoints { get; set; }
     }
 }

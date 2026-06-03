@@ -15,49 +15,45 @@ public class StatisticsService : IStatisticsService
 
     public async Task<StatisticsDto> GetStatisticsAsync(int userId)
     {
-        var games = await _context.Games
-            .Where(g => g.UserId == userId && g.EndDate != null)
-            .OrderBy(g => g.EndDate)
-            .ToListAsync();
+        var stat = await _context.Statistics.FirstOrDefaultAsync(s => s.UserId == userId);
+        if (stat == null)
+            return new StatisticsDto();
 
-        int played = games.Count;
-        int wins = games.Count(g => g.IsWin);
-
-        int winPercentage = played == 0 ? 0 : (int)Math.Round((double)wins / played * 100);
-
-        int currentStreak = 0;
-        for (int i = games.Count - 1; i >= 0; i--)
-        {
-            if (games[i].IsWin)
-                currentStreak++;
-            else
-                break;
-        }
-
-        int maxStreak = 0;
-        int tempStreak = 0;
-
-        foreach (var game in games)
-        {
-            if (game.IsWin)
-            {
-                tempStreak++;
-                if (tempStreak > maxStreak)
-                    maxStreak = tempStreak;
-            }
-            else
-            {
-                tempStreak = 0;
-            }
-        }
+        int winPct = stat.GamesPlayed == 0 ? 0 : (int)Math.Round((double)stat.Wins / stat.GamesPlayed * 100);
 
         return new StatisticsDto
         {
-            Played = played,
-            Wins = wins,
-            WinPercentage = winPercentage,
-            CurrentStreak = currentStreak,
-            MaxStreak = maxStreak
+            Played = stat.GamesPlayed,
+            Wins = stat.Wins,
+            WinPercentage = winPct,
+            CurrentStreak = stat.CurrentStreak,
+            MaxStreak = stat.MaxStreak,
+            TotalPoints = stat.TotalPoints
         };
+    }
+
+    public async Task UpdateAfterGameAsync(int userId, bool isWin, int attempts)
+    {
+        var stat = await _context.Statistics.FirstOrDefaultAsync(s => s.UserId == userId);
+        if (stat == null) return;
+
+        stat.GamesPlayed++;
+
+        if (isWin)
+        {
+            stat.Wins++;
+            stat.CurrentStreak++;
+            if (stat.CurrentStreak > stat.MaxStreak)
+                stat.MaxStreak = stat.CurrentStreak;
+
+            int points = (7 - attempts) * 10;
+            stat.TotalPoints += points;
+        }
+        else
+        {
+            stat.CurrentStreak = 0;
+        }
+
+        await _context.SaveChangesAsync();
     }
 }

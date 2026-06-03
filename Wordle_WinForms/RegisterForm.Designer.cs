@@ -1,4 +1,5 @@
 ﻿using System.Net.Http.Json;
+using System.Text.Json.Serialization;
 
 namespace Wordle_WinForms
 {
@@ -59,7 +60,7 @@ namespace Wordle_WinForms
 
             var request = new AuthRequest
             {
-                Username = username,
+                Email = username,
                 Password = password
             };
 
@@ -75,11 +76,12 @@ namespace Wordle_WinForms
             }
 
             var result = await response.Content.ReadFromJsonAsync<AuthResponse>();
+            LoginForm.AppSession.UserId = result!.UserId;
+            LoginForm.AppSession.Username = result.Email;
+            LoginForm.AppSession.Token = result.Token;
 
-            Form1 form = new Form1(result!.UserId, result.Username);
-
+            Form1 form = new Form1(result.UserId, result.Email); 
             form.Show();
-
             this.Hide();
         }
 
@@ -92,6 +94,18 @@ namespace Wordle_WinForms
             this.Hide();
         }
 
+        public class AuthRequest
+        {
+            public string Email { get; set; } = "";
+            public string Password { get; set; } = "";
+        }
+        public class AuthResponse
+        {
+            [JsonPropertyName("userId")] public int UserId { get; set; }
+            [JsonPropertyName("email")] public string Email { get; set; } = "";
+            [JsonPropertyName("token")] public string Token { get; set; } = "";
+            [JsonPropertyName("message")] public string Message { get; set; } = "";
+        }
         private bool IsValidEmail(string email)
         {
             return System.Text.RegularExpressions.Regex.IsMatch(

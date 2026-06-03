@@ -33,6 +33,32 @@
   },
   {
     "ContainingType": "Wordle_API.Controllers.GamesController",
+    "Method": "GetGames",
+    "RelativePath": "api/Games",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wordle_API.Controllers.GamesController",
+    "Method": "GetGame",
+    "RelativePath": "api/Games/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wordle_API.Controllers.GamesController",
     "Method": "Guess",
     "RelativePath": "api/Games/guess",
     "HttpMethod": "POST",
@@ -66,17 +92,11 @@
   {
     "ContainingType": "Wordle_API.Controllers.StatisticsController",
     "Method": "GetStatistics",
-    "RelativePath": "api/Statistics/{userId}",
+    "RelativePath": "api/Statistics",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "userId",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

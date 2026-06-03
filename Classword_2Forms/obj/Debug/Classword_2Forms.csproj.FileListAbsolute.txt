@@ -8,4 +8,3 @@ C:\Users\User\Documents\WCF_2026\Classword_2Forms\obj\Debug\Classword_2Forms.csp
 C:\Users\User\Documents\WCF_2026\Classword_2Forms\obj\Debug\Classword_2Forms.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\WCF_2026\Classword_2Forms\obj\Debug\Classword_2Forms.exe
 C:\Users\User\Documents\WCF_2026\Classword_2Forms\obj\Debug\Classword_2Forms.pdb
-C:\Users\User\Documents\WCF_2026\Classword_2Forms\obj\Debug\Classword_2Forms.exe.config

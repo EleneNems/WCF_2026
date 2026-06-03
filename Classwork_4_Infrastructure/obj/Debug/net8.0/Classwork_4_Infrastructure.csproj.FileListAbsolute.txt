@@ -17,7 +17,9 @@ C:\Users\lab322_Student02\Desktop\WCF_2026\Classwork_4_Infrastructure\obj\Debug\
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\bin\Debug\net8.0\Classwork_4_Infrastructure.deps.json
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\bin\Debug\net8.0\Classwork_4_Infrastructure.dll
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\bin\Debug\net8.0\Classwork_4_Infrastructure.pdb
+C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\bin\Debug\net8.0\Classwork_4_Application.dll
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\bin\Debug\net8.0\Classwork_4_Domain.dll
+C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\bin\Debug\net8.0\Classwork_4_Application.pdb
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\bin\Debug\net8.0\Classwork_4_Domain.pdb
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\obj\Debug\net8.0\Classwork_4_Infrastructure.csproj.AssemblyReference.cache
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\obj\Debug\net8.0\Classwork_4_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
@@ -30,5 +32,3 @@ C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\obj\Debug\net8.0\Cla
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\obj\Debug\net8.0\refint\Classwork_4_Infrastructure.dll
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\obj\Debug\net8.0\Classwork_4_Infrastructure.pdb
 C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\obj\Debug\net8.0\ref\Classwork_4_Infrastructure.dll
-C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\bin\Debug\net8.0\Classwork_4_Application.dll
-C:\Users\User\Documents\WCF_2026\Classwork_4_Infrastructure\bin\Debug\net8.0\Classwork_4_Application.pdb

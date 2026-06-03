@@ -8,4 +8,3 @@ C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.csp
 C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.exe
 C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.pdb
-C:\Users\User\Documents\WCF_2026\Lecture_3_Client\obj\Debug\Lecture_3_Client.exe.config
