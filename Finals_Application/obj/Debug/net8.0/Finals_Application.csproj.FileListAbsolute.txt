@@ -1,0 +1,16 @@
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\Finals_Application.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\Finals_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\Finals_Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\Finals_Application.AssemblyInfo.cs
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\Finals_Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\Finals_Application.sourcelink.json
+C:\Users\User\Documents\WCF_2026\Finals_Application\bin\Debug\net8.0\Finals_Application.deps.json
+C:\Users\User\Documents\WCF_2026\Finals_Application\bin\Debug\net8.0\Finals_Application.dll
+C:\Users\User\Documents\WCF_2026\Finals_Application\bin\Debug\net8.0\Finals_Application.pdb
+C:\Users\User\Documents\WCF_2026\Finals_Application\bin\Debug\net8.0\Finals_Domain.dll
+C:\Users\User\Documents\WCF_2026\Finals_Application\bin\Debug\net8.0\Finals_Domain.pdb
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\Finals_A.81B79666.Up2Date
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\Finals_Application.dll
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\refint\Finals_Application.dll
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\Finals_Application.pdb
+C:\Users\User\Documents\WCF_2026\Finals_Application\obj\Debug\net8.0\ref\Finals_Application.dll
